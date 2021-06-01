@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-15 06:07\n"
+"PO-Revision-Date: 2021-06-01 01:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -20,23 +20,23 @@ msgstr ""
 
 #: ../modules/generated/sklearn.linear_model.LassoLars.rst:2
 msgid ":mod:`sklearn.linear_model`.LassoLars"
-msgstr ""
+msgstr ":mod:`sklearn.linear_model`.LassoLars"
 
 #: of sklearn.linear_model._least_angle.LassoLars:2
 msgid "Lasso model fit with Least Angle Regression a.k.a. Lars"
-msgstr ""
+msgstr "Ajuste del modelo Lasso con la Regresión de Ángulo Mínimo, también conocida como Lars"
 
 #: of sklearn.linear_model._least_angle.LassoLars:4
 msgid "It is a Linear Model trained with an L1 prior as regularizer."
-msgstr ""
+msgstr "Es un Modelo Lineal entrenado con un previo L1 como regularizador."
 
 #: of sklearn.linear_model._least_angle.LassoLars:6
 msgid "The optimization objective for Lasso is::"
-msgstr ""
+msgstr "El objetivo de optimización para Lasso es::"
 
 #: of sklearn.linear_model._least_angle.LassoLars:10
 msgid "Read more in the :ref:`User Guide <least_angle_regression>`."
-msgstr ""
+msgstr "Lee más en el :ref:`Manual de usuario <least_angle_regression>`."
 
 #: of sklearn.base.BaseEstimator.get_params
 #: sklearn.base.BaseEstimator.set_params sklearn.base.RegressorMixin.score
@@ -44,27 +44,27 @@ msgstr ""
 #: sklearn.linear_model._least_angle.Lars.fit
 #: sklearn.linear_model._least_angle.LassoLars
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: of sklearn.linear_model._least_angle.LassoLars:19
 msgid "**alpha**"
-msgstr ""
+msgstr "**alpha**"
 
 #: of
 msgid "float, default=1.0"
-msgstr ""
+msgstr "float, default=1.0"
 
 #: of sklearn.linear_model._least_angle.LassoLars:15
 msgid "Constant that multiplies the penalty term. Defaults to 1.0. ``alpha = 0`` is equivalent to an ordinary least square, solved by :class:`LinearRegression`. For numerical reasons, using ``alpha = 0`` with the LassoLars object is not advised and you should prefer the LinearRegression object."
-msgstr ""
+msgstr "Constante que multiplica los términos de penalización. Por defecto es 1.0. ``alpha = 0`` es equivalente a un mínimos cuadrados ordinarios, solucionado por :class:`LinearRegression`. Por razones numéricas, no se recomienda utilizar ``alpha = 0`` con el objeto LassoLars y debes preferir el objeto LinearRegression."
 
 #: of sklearn.linear_model._least_angle.LassoLars:24
 msgid "**fit_intercept**"
-msgstr ""
+msgstr "**fit_intercept**"
 
 #: of
 msgid "bool, default=True"
-msgstr ""
+msgstr "bool, default=True"
 
 #: of sklearn.linear_model._least_angle.LassoLars:22
 msgid "whether to calculate the intercept for this model. If set to false, no intercept will be used in calculations (i.e. data is expected to be centered)."
@@ -72,11 +72,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:27
 msgid "**verbose**"
-msgstr ""
+msgstr "**verbose**"
 
 #: of
 msgid "bool or int, default=False"
-msgstr ""
+msgstr "bool o int, default=False"
 
 #: of sklearn.linear_model._least_angle.LassoLars:27
 msgid "Sets the verbosity amount."
@@ -84,7 +84,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:35
 msgid "**normalize**"
-msgstr ""
+msgstr "**normalize**"
 
 #: of sklearn.linear_model._least_angle.LassoLars:30
 msgid "This parameter is ignored when ``fit_intercept`` is set to False. If True, the regressors X will be normalized before regression by subtracting the mean and dividing by the l2-norm. If you wish to standardize, please use :class:`~sklearn.preprocessing.StandardScaler` before calling ``fit`` on an estimator with ``normalize=False``."
@@ -92,23 +92,23 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:40
 msgid "**precompute**"
-msgstr ""
+msgstr "**precompute**"
 
 #: of
 msgid "bool, 'auto' or array-like, default='auto'"
-msgstr ""
+msgstr "bool, 'auto' o array-like, default='auto'"
 
 #: of sklearn.linear_model._least_angle.LassoLars:38
 msgid "Whether to use a precomputed Gram matrix to speed up calculations. If set to ``'auto'`` let us decide. The Gram matrix can also be passed as argument."
-msgstr ""
+msgstr "Si usar una matriz precalculada Gram para acelerar los cálculos. Si se establece como ``'auto'``, nosotros decidimos. La matriz de Gram puede también ser pasada como un argumento."
 
 #: of sklearn.linear_model._least_angle.LassoLars:43
 msgid "**max_iter**"
-msgstr ""
+msgstr "**max_iter**"
 
 #: of
 msgid "int, default=500"
-msgstr ""
+msgstr "int, default=500"
 
 #: of sklearn.linear_model._least_angle.LassoLars:43
 msgid "Maximum number of iterations to perform."
@@ -116,11 +116,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:50
 msgid "**eps**"
-msgstr ""
+msgstr "**eps**"
 
 #: of
 msgid "float, default=np.finfo(float).eps"
-msgstr ""
+msgstr "float, default=np.finfo(float).eps"
 
 #: of sklearn.linear_model._least_angle.LassoLars:46
 msgid "The machine-precision regularization in the computation of the Cholesky diagonal factors. Increase this for very ill-conditioned systems. Unlike the ``tol`` parameter in some iterative optimization-based algorithms, this parameter does not control the tolerance of the optimization."
@@ -128,7 +128,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:53
 msgid "**copy_X**"
-msgstr ""
+msgstr "**copy_X**"
 
 #: of sklearn.linear_model._least_angle.LassoLars:53
 msgid "If True, X will be copied; else, it may be overwritten."
@@ -136,7 +136,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:59
 msgid "**fit_path**"
-msgstr ""
+msgstr "**fit_path**"
 
 #: of sklearn.linear_model._least_angle.LassoLars:56
 msgid "If ``True`` the full path is stored in the ``coef_path_`` attribute. If you compute the solution for a large problem or many targets, setting ``fit_path`` to ``False`` will lead to a speedup, especially with a small alpha."
@@ -144,11 +144,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:69
 msgid "**positive**"
-msgstr ""
+msgstr "**positive**"
 
 #: of
 msgid "bool, default=False"
-msgstr ""
+msgstr "bool, default=False"
 
 #: of sklearn.linear_model._least_angle.LassoLars:62
 msgid "Restrict coefficients to be >= 0. Be aware that you might want to remove fit_intercept which is set True by default. Under the positive restriction the model coefficients will not converge to the ordinary-least-squares solution for small values of alpha. Only coefficients up to the smallest alpha value (``alphas_[alphas_ > 0.].min()`` when fit_path=True) reached by the stepwise Lars-Lasso algorithm are typically in congruence with the solution of the coordinate descent Lasso estimator."
@@ -156,11 +156,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:76
 msgid "**jitter**"
-msgstr ""
+msgstr "**jitter**"
 
 #: of
 msgid "float, default=None"
-msgstr ""
+msgstr "float, default=None"
 
 #: of sklearn.linear_model._least_angle.LassoLars:72
 msgid "Upper bound on a uniform noise parameter to be added to the `y` values, to satisfy the model's assumption of one-at-a-time computations. Might help with stability."
@@ -168,11 +168,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:86
 msgid "**random_state**"
-msgstr ""
+msgstr "**random_state**"
 
 #: of
 msgid "int, RandomState instance or None, default=None"
-msgstr ""
+msgstr "int, RandomState instance o None, default=None"
 
 #: of sklearn.linear_model._least_angle.LassoLars:79
 msgid "Determines random number generation for jittering. Pass an int for reproducible output across multiple function calls. See :term:`Glossary <random_state>`. Ignored if `jitter` is None."
@@ -180,11 +180,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #: of sklearn.linear_model._least_angle.LassoLars:95
 msgid "**alphas_**"
-msgstr ""
+msgstr "**alphas_**"
 
 #: of
 msgid "array-like of shape (n_alphas + 1,) or list of such arrays"
@@ -196,7 +196,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:99
 msgid "**active_**"
-msgstr ""
+msgstr "**active_**"
 
 #: of
 msgid "list of length n_alphas or list of such lists"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:105
 msgid "**coef_path_**"
-msgstr ""
+msgstr "**coef_path_**"
 
 #: of
 msgid "array-like of shape (n_features, n_alphas + 1) or list             of such arrays"
@@ -220,7 +220,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:108
 msgid "**coef_**"
-msgstr ""
+msgstr "**coef_**"
 
 #: of
 msgid "array-like of shape (n_features,) or (n_targets, n_features)"
@@ -232,7 +232,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:111
 msgid "**intercept_**"
-msgstr ""
+msgstr "**intercept_**"
 
 #: of
 msgid "float or array-like of shape (n_targets,)"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:118
 msgid "**n_iter_**"
-msgstr ""
+msgstr "**n_iter_**"
 
 #: of
 msgid "array-like or int"
@@ -256,52 +256,52 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:123
 msgid ":obj:`lars_path`"
-msgstr ""
+msgstr ":obj:`lars_path`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:125
 msgid ":obj:`lasso_path`"
-msgstr ""
+msgstr ":obj:`lasso_path`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:127
 msgid ":obj:`Lasso`"
-msgstr ""
+msgstr ":obj:`Lasso`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:129
 msgid ":obj:`LassoCV`"
-msgstr ""
+msgstr ":obj:`LassoCV`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:131
 msgid ":obj:`LassoLarsCV`"
-msgstr ""
+msgstr ":obj:`LassoLarsCV`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:133
 msgid ":obj:`LassoLarsIC`"
-msgstr ""
+msgstr ":obj:`LassoLarsIC`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:135
 msgid ":obj:`sklearn.decomposition.sparse_encode`"
-msgstr ""
+msgstr ":obj:`sklearn.decomposition.sparse_encode`"
 
 #: of sklearn.linear_model._least_angle.LassoLars:141
 msgid "Examples"
-msgstr ""
+msgstr "Ejemplos"
 
 #: of sklearn.linear_model._least_angle.LassoLars:150
 msgid "Methods"
-msgstr ""
+msgstr "Métodos"
 
 #: of sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid ":obj:`fit <sklearn.linear_model.LassoLars.fit>`\\"
-msgstr ""
+msgstr ":obj:`fit <sklearn.linear_model.LassoLars.fit>`\\"
 
 #: of sklearn.linear_model._least_angle.Lars.fit:2
 #: sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid "Fit the model using X, y as training data."
-msgstr ""
+msgstr "Ajusta el modelo utilizando X, y como datos de entrenamiento."
 
 #: of sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid ":obj:`get_params <sklearn.linear_model.LassoLars.get_params>`\\"
-msgstr ""
+msgstr ":obj:`get_params <sklearn.linear_model.LassoLars.get_params>`\\"
 
 #: of sklearn.base.BaseEstimator.get_params:2
 #: sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
@@ -310,7 +310,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid ":obj:`predict <sklearn.linear_model.LassoLars.predict>`\\"
-msgstr ""
+msgstr ":obj:`predict <sklearn.linear_model.LassoLars.predict>`\\"
 
 #: of sklearn.linear_model._base.LinearModel.predict:2
 #: sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
@@ -319,7 +319,7 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid ":obj:`score <sklearn.linear_model.LassoLars.score>`\\"
-msgstr ""
+msgstr ":obj:`score <sklearn.linear_model.LassoLars.score>`\\"
 
 #: of sklearn.base.RegressorMixin.score:2
 #: sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
@@ -328,31 +328,31 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid ":obj:`set_params <sklearn.linear_model.LassoLars.set_params>`\\"
-msgstr ""
+msgstr ":obj:`set_params <sklearn.linear_model.LassoLars.set_params>`\\"
 
 #: of sklearn.base.BaseEstimator.set_params:2
 #: sklearn.linear_model._least_angle.LassoLars:158:<autosummary>:1
 msgid "Set the parameters of this estimator."
-msgstr ""
+msgstr "Establece los parámetros de este estimador."
 
 #: of sklearn.base.RegressorMixin.score:20
 #: sklearn.linear_model._base.LinearModel.predict:8
 #: sklearn.linear_model._least_angle.Lars.fit:8
 msgid "**X**"
-msgstr ""
+msgstr "**X**"
 
 #: of
 msgid "array-like of shape (n_samples, n_features)"
-msgstr ""
+msgstr "array-like de forma (n_samples, n_features)"
 
 #: of sklearn.linear_model._least_angle.Lars.fit:8
 msgid "Training data."
-msgstr ""
+msgstr "Datos de entrenamiento."
 
 #: of sklearn.base.RegressorMixin.score:23
 #: sklearn.linear_model._least_angle.Lars.fit:11
 msgid "**y**"
-msgstr ""
+msgstr "**y**"
 
 #: of
 msgid "array-like of shape (n_samples,) or (n_samples, n_targets)"
@@ -364,11 +364,11 @@ msgstr ""
 
 #: of sklearn.linear_model._least_angle.Lars.fit:15
 msgid "**Xy**"
-msgstr ""
+msgstr "**Xy**"
 
 #: of
 msgid "array-like of shape (n_samples,) or (n_samples, n_targets),                 default=None"
-msgstr ""
+msgstr "array-like de forma (n_samples,) or (n_samples, n_targets),                 default=None"
 
 #: of sklearn.linear_model._least_angle.Lars.fit:14
 msgid "Xy = np.dot(X.T, y) that can be precomputed. It is useful only when the Gram matrix is precomputed."
@@ -379,12 +379,12 @@ msgstr ""
 #: sklearn.linear_model._base.LinearModel.predict
 #: sklearn.linear_model._least_angle.Lars.fit
 msgid "Returns"
-msgstr ""
+msgstr "Devuelve"
 
 #: of sklearn.base.BaseEstimator.set_params:28
 #: sklearn.linear_model._least_angle.Lars.fit:31
 msgid "**self**"
-msgstr ""
+msgstr "**self**"
 
 #: of
 msgid "object"
@@ -396,7 +396,7 @@ msgstr ""
 
 #: of sklearn.base.BaseEstimator.get_params:9
 msgid "**deep**"
-msgstr ""
+msgstr "**deep**"
 
 #: of sklearn.base.BaseEstimator.get_params:8
 msgid "If True, will return the parameters for this estimator and contained subobjects that are estimators."
@@ -404,7 +404,7 @@ msgstr ""
 
 #: of sklearn.base.BaseEstimator.get_params:25
 msgid "**params**"
-msgstr ""
+msgstr "**params**"
 
 #: of
 msgid "dict"
@@ -416,7 +416,7 @@ msgstr ""
 
 #: of
 msgid "array-like or sparse matrix, shape (n_samples, n_features)"
-msgstr ""
+msgstr "array-like o sparse matrix, de forma (n_samples, n_features)"
 
 #: of sklearn.linear_model._base.LinearModel.predict:8
 msgid "Samples."
@@ -424,7 +424,7 @@ msgstr ""
 
 #: of sklearn.linear_model._base.LinearModel.predict:24
 msgid "**C**"
-msgstr ""
+msgstr "**C**"
 
 #: of
 msgid "array, shape (n_samples,)"
@@ -452,11 +452,11 @@ msgstr ""
 
 #: of sklearn.base.RegressorMixin.score:26
 msgid "**sample_weight**"
-msgstr ""
+msgstr "**sample_weight**"
 
 #: of
 msgid "array-like of shape (n_samples,), default=None"
-msgstr ""
+msgstr "array-like de forma (n_samples,), default=None"
 
 #: of sklearn.base.RegressorMixin.score:26
 msgid "Sample weights."
@@ -464,7 +464,7 @@ msgstr ""
 
 #: of sklearn.base.RegressorMixin.score:38
 msgid "**score**"
-msgstr ""
+msgstr "**score**"
 
 #: of
 msgid "float"
@@ -488,7 +488,7 @@ msgstr ""
 
 #: of sklearn.base.BaseEstimator.set_params:12
 msgid "**\\*\\*params**"
-msgstr ""
+msgstr "**\\*\\*params**"
 
 #: of sklearn.base.BaseEstimator.set_params:12
 msgid "Estimator parameters."

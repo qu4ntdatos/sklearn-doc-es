@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-19 12:07\n"
+"PO-Revision-Date: 2021-05-13 22:03\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Referencia del API"
 
 #: ../modules/classes.rst:7
 msgid "This is the class and function reference of scikit-learn. Please refer to the :ref:`full user guide <user_guide>` for further details, as the class and function raw specifications may not be enough to give full guidelines on their uses. For reference on concepts repeated across the API, see :ref:`glossary`."
-msgstr "Esta es la referencia de clase y función de scikit-learn. Por favor, consulta la :ref:`guía de usuario completa <user_guide>` para obtener más detalles, ya que las especificaciones originales de clase y función pueden no ser suficientes para dar directrices completas sobre sus usos. Para referencias sobre conceptos repetidos a través del API, ver :ref:`glossary`."
+msgstr "Esta es la referencia de clase y función de scikit-learn. Por favor, consulta el :ref:`manual completo del usuario <user_guide>` para obtener más detalles, ya que las especificaciones originales de clase y función pueden no ser suficientes para dar directrices completas sobre sus usos. Para referencias sobre conceptos repetidos a través del API, ver :ref:`glossary`."
 
 #: ../modules/classes.rst:15
 msgid ":mod:`sklearn.base`: Base classes and utility functions"
@@ -221,205 +221,205 @@ msgstr ":obj:`cluster.AgglomerativeClustering <sklearn.cluster.AgglomerativeClus
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Agglomerative Clustering"
-msgstr ""
+msgstr "Análisis de Conglomerados Aglomerativo"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.Birch <sklearn.cluster.Birch>`\\"
-msgstr ""
+msgstr ":obj:`cluster.Birch <sklearn.cluster.Birch>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Implements the Birch clustering algorithm."
-msgstr ""
+msgstr "Implementa el algoritmo de agrupación de Birch."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.DBSCAN <sklearn.cluster.DBSCAN>`\\"
-msgstr ""
+msgstr ":obj:`cluster.DBSCAN <sklearn.cluster.DBSCAN>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Perform DBSCAN clustering from vector array or distance matrix."
-msgstr ""
+msgstr "Realiza el agrupamiento DBSCAN a partir de un arreglo vectorial o una matriz de distancia."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.FeatureAgglomeration <sklearn.cluster.FeatureAgglomeration>`\\"
-msgstr ""
+msgstr ":obj:`cluster.FeatureAgglomeration <sklearn.cluster.FeatureAgglomeration>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Agglomerate features."
-msgstr ""
+msgstr "Aglomeración por características."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.KMeans <sklearn.cluster.KMeans>`\\"
-msgstr ""
+msgstr ":obj:`cluster.KMeans <sklearn.cluster.KMeans>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "K-Means clustering."
-msgstr ""
+msgstr "Agrupamiento por K-Medias."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.MiniBatchKMeans <sklearn.cluster.MiniBatchKMeans>`\\"
-msgstr ""
+msgstr ":obj:`cluster.MiniBatchKMeans <sklearn.cluster.MiniBatchKMeans>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Mini-Batch K-Means clustering."
-msgstr ""
+msgstr "Agrupamiento por K-Medias en mini lotes."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.MeanShift <sklearn.cluster.MeanShift>`\\"
-msgstr ""
+msgstr ":obj:`cluster.MeanShift <sklearn.cluster.MeanShift>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Mean shift clustering using a flat kernel."
-msgstr ""
+msgstr "Agrupamiento por media desplazada usando un kernel plano."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.OPTICS <sklearn.cluster.OPTICS>`\\"
-msgstr ""
+msgstr ":obj:`cluster.OPTICS <sklearn.cluster.OPTICS>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Estimate clustering structure from vector array."
-msgstr ""
+msgstr "Estimar la estructura de agrupamiento de un arreglo vectorial."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.SpectralClustering <sklearn.cluster.SpectralClustering>`\\"
-msgstr ""
+msgstr ":obj:`cluster.SpectralClustering <sklearn.cluster.SpectralClustering>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Apply clustering to a projection of the normalized Laplacian."
-msgstr ""
+msgstr "Aplicar la agrupación a una proyección del Laplaciano normalizado."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.SpectralBiclustering <sklearn.cluster.SpectralBiclustering>`\\"
-msgstr ""
+msgstr ":obj:`cluster.SpectralBiclustering <sklearn.cluster.SpectralBiclustering>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Spectral biclustering (Kluger, 2003)."
-msgstr ""
+msgstr "Biclustering espectral (Kluger, 2003)."
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid ":obj:`cluster.SpectralCoclustering <sklearn.cluster.SpectralCoclustering>`\\"
-msgstr ""
+msgstr ":obj:`cluster.SpectralCoclustering <sklearn.cluster.SpectralCoclustering>`\\"
 
 #: ../modules/classes.rst:113:<autosummary>:1
 msgid "Spectral Co-Clustering algorithm (Dhillon, 2001)."
-msgstr ""
+msgstr "Algoritmo de Co-Clustering espectral (Dhillon, 2001)."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.affinity_propagation <sklearn.cluster.affinity_propagation>`\\"
-msgstr ""
+msgstr ":obj:`cluster.affinity_propagation <sklearn.cluster.affinity_propagation>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.cluster_optics_dbscan <sklearn.cluster.cluster_optics_dbscan>`\\"
-msgstr ""
+msgstr ":obj:`cluster.cluster_optics_dbscan <sklearn.cluster.cluster_optics_dbscan>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Performs DBSCAN extraction for an arbitrary epsilon."
-msgstr ""
+msgstr "Realiza la extracción de DBSCAN para un épsilon arbitrario."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.cluster_optics_xi <sklearn.cluster.cluster_optics_xi>`\\"
-msgstr ""
+msgstr ":obj:`cluster.cluster_optics_xi <sklearn.cluster.cluster_optics_xi>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Automatically extract clusters according to the Xi-steep method."
-msgstr ""
+msgstr "Extraer automáticamente los conglomerados según el método Xi-steep."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.compute_optics_graph <sklearn.cluster.compute_optics_graph>`\\"
-msgstr ""
+msgstr ":obj:`cluster.compute_optics_graph <sklearn.cluster.compute_optics_graph>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Computes the OPTICS reachability graph."
-msgstr ""
+msgstr "Calcula el grafo de alcanzabilidad de OPTICS."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.dbscan <sklearn.cluster.dbscan>`\\"
-msgstr ""
+msgstr ":obj:`cluster.dbscan <sklearn.cluster.dbscan>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.estimate_bandwidth <sklearn.cluster.estimate_bandwidth>`\\"
-msgstr ""
+msgstr ":obj:`cluster.estimate_bandwidth <sklearn.cluster.estimate_bandwidth>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Estimate the bandwidth to use with the mean-shift algorithm."
-msgstr ""
+msgstr "Estimar el ancho de banda a utilizar con el algoritmo de media-desplazada."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.k_means <sklearn.cluster.k_means>`\\"
-msgstr ""
+msgstr ":obj:`cluster.k_means <sklearn.cluster.k_means>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "K-means clustering algorithm."
-msgstr ""
+msgstr "Algoritmo de agrupamiento K-medias."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.kmeans_plusplus <sklearn.cluster.kmeans_plusplus>`\\"
-msgstr ""
+msgstr ":obj:`cluster.kmeans_plusplus <sklearn.cluster.kmeans_plusplus>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Init n_clusters seeds according to k-means++"
-msgstr ""
+msgstr "Inicializa n_clusters semillas de acuerdo a k-medias++"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.mean_shift <sklearn.cluster.mean_shift>`\\"
-msgstr ""
+msgstr ":obj:`cluster.mean_shift <sklearn.cluster.mean_shift>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Perform mean shift clustering of data using a flat kernel."
-msgstr ""
+msgstr "Realiza un agrupamiento de datos por media desplazada usando un kernel plano."
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.spectral_clustering <sklearn.cluster.spectral_clustering>`\\"
-msgstr ""
+msgstr ":obj:`cluster.spectral_clustering <sklearn.cluster.spectral_clustering>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid ":obj:`cluster.ward_tree <sklearn.cluster.ward_tree>`\\"
-msgstr ""
+msgstr ":obj:`cluster.ward_tree <sklearn.cluster.ward_tree>`\\"
 
 #: ../modules/classes.rst:131:<autosummary>:1
 msgid "Ward clustering based on a Feature matrix."
-msgstr ""
+msgstr "Agrupamiento de Ward basado en una matriz de características."
 
 #: ../modules/classes.rst:135
 msgid ":mod:`sklearn.compose`: Composite Estimators"
-msgstr ""
+msgstr ":mod:`sklearn.compose`: Estimadores compuestos"
 
 #: of sklearn.compose:1
 msgid "Meta-estimators for building composite models with transformers"
-msgstr ""
+msgstr "Meta-estimadores para construir modelos compuestos con transformadores"
 
 #: of sklearn.compose:3
 msgid "In addition to its current contents, this module will eventually be home to refurbished versions of Pipeline and FeatureUnion."
-msgstr ""
+msgstr "Además de su contenido actual, este módulo albergará eventualmente versiones renovadas de Pipeline y FeatureUnion."
 
 #: ../modules/classes.rst:141 ../modules/classes.rst:1365
 msgid "**User guide:** See the :ref:`combining_estimators` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`combining_estimators` para más detalles."
 
 #: ../modules/classes.rst:152:<autosummary>:1
 msgid ":obj:`compose.ColumnTransformer <sklearn.compose.ColumnTransformer>`\\"
-msgstr ""
+msgstr ":obj:`compose.ColumnTransformer <sklearn.compose.ColumnTransformer>`\\"
 
 #: ../modules/classes.rst:152:<autosummary>:1
 msgid "Applies transformers to columns of an array or pandas DataFrame."
-msgstr ""
+msgstr "Aplica transformadores a las columnas de un array o un DataFrame de pandas."
 
 #: ../modules/classes.rst:152:<autosummary>:1
 msgid ":obj:`compose.TransformedTargetRegressor <sklearn.compose.TransformedTargetRegressor>`\\"
-msgstr ""
+msgstr ":obj:`compose.TransformedTargetRegressor <sklearn.compose.TransformedTargetRegressor>`\\"
 
 #: ../modules/classes.rst:152:<autosummary>:1
 msgid "Meta-estimator to regress on a transformed target."
-msgstr ""
+msgstr "Meta-estimador para la regresión de un objetivo transformado."
 
 #: ../modules/classes.rst:159:<autosummary>:1
 msgid ":obj:`compose.make_column_transformer <sklearn.compose.make_column_transformer>`\\"
-msgstr ""
+msgstr ":obj:`compose.make_column_transformer <sklearn.compose.make_column_transformer>`\\"
 
 #: ../modules/classes.rst:159:<autosummary>:1
 msgid "Construct a ColumnTransformer from the given transformers."
-msgstr ""
+msgstr "Construye un ColumnTransformer a partir de los transformadores dados."
 
 #: ../modules/classes.rst:159:<autosummary>:1
 msgid ":obj:`compose.make_column_selector <sklearn.compose.make_column_selector>`\\"
@@ -479,1244 +479,1244 @@ msgstr ":obj:`covariance.LedoitWolf <sklearn.covariance.LedoitWolf>`\\"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid "LedoitWolf Estimator"
-msgstr ""
+msgstr "Estimador Ledoit-Wolf"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid ":obj:`covariance.MinCovDet <sklearn.covariance.MinCovDet>`\\"
-msgstr ""
+msgstr ":obj:`covariance.MinCovDet <sklearn.covariance.MinCovDet>`\\"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid "Minimum Covariance Determinant (MCD): robust estimator of covariance."
-msgstr ""
+msgstr "Determinante de Covarianza Mínima (DCM): estimador robusto de la covarianza."
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid ":obj:`covariance.OAS <sklearn.covariance.OAS>`\\"
-msgstr ""
+msgstr ":obj:`covariance.OAS <sklearn.covariance.OAS>`\\"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid "Oracle Approximating Shrinkage Estimator"
-msgstr ""
+msgstr "Estimador de Reducción por Aproximación de Oráculo"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid ":obj:`covariance.ShrunkCovariance <sklearn.covariance.ShrunkCovariance>`\\"
-msgstr ""
+msgstr ":obj:`covariance.ShrunkCovariance <sklearn.covariance.ShrunkCovariance>`\\"
 
 #: ../modules/classes.rst:185:<autosummary>:1
 msgid "Covariance estimator with shrinkage"
-msgstr ""
+msgstr "Estimador de covarianza con reducción"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid ":obj:`covariance.empirical_covariance <sklearn.covariance.empirical_covariance>`\\"
-msgstr ""
+msgstr ":obj:`covariance.empirical_covariance <sklearn.covariance.empirical_covariance>`\\"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid "Computes the Maximum likelihood covariance estimator"
-msgstr ""
+msgstr "Calcula el estimador de covarianza de Máxima Verosimilitud"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid ":obj:`covariance.graphical_lasso <sklearn.covariance.graphical_lasso>`\\"
-msgstr ""
+msgstr ":obj:`covariance.graphical_lasso <sklearn.covariance.graphical_lasso>`\\"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid "l1-penalized covariance estimator"
-msgstr ""
+msgstr "estimador de covarianza l1-penalizado"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid ":obj:`covariance.ledoit_wolf <sklearn.covariance.ledoit_wolf>`\\"
-msgstr ""
+msgstr ":obj:`covariance.ledoit_wolf <sklearn.covariance.ledoit_wolf>`\\"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid "Estimates the shrunk Ledoit-Wolf covariance matrix."
-msgstr ""
+msgstr "Estima la matriz de covarianza reducida Ledoit-Wolf."
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid ":obj:`covariance.oas <sklearn.covariance.oas>`\\"
-msgstr ""
+msgstr ":obj:`covariance.oas <sklearn.covariance.oas>`\\"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid "Estimate covariance with the Oracle Approximating Shrinkage algorithm."
-msgstr ""
+msgstr "Estima la covarianza con el algoritmo de Reducción por Aproximación de Oráculo."
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid ":obj:`covariance.shrunk_covariance <sklearn.covariance.shrunk_covariance>`\\"
-msgstr ""
+msgstr ":obj:`covariance.shrunk_covariance <sklearn.covariance.shrunk_covariance>`\\"
 
 #: ../modules/classes.rst:195:<autosummary>:1
 msgid "Calculates a covariance matrix shrunk on the diagonal"
-msgstr ""
+msgstr "Calcula una matriz de covarianza reducida sobre la diagonal"
 
 #: ../modules/classes.rst:199
 msgid ":mod:`sklearn.cross_decomposition`: Cross decomposition"
-msgstr ""
+msgstr ":mod:`sklearn.cross_decomposition`: Cross decomposition"
 
 #: ../modules/classes.rst:205
 msgid "**User guide:** See the :ref:`cross_decomposition` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`cross_decomposition` para más detalles."
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid ":obj:`cross_decomposition.CCA <sklearn.cross_decomposition.CCA>`\\"
-msgstr ""
+msgstr ":obj:`cross_decomposition.CCA <sklearn.cross_decomposition.CCA>`\\"
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid "Canonical Correlation Analysis, also known as \"Mode B\" PLS."
-msgstr ""
+msgstr "Análisis de Correlación Canónica, también conocido como PLS \"Modo B\"."
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid ":obj:`cross_decomposition.PLSCanonical <sklearn.cross_decomposition.PLSCanonical>`\\"
-msgstr ""
+msgstr ":obj:`cross_decomposition.PLSCanonical <sklearn.cross_decomposition.PLSCanonical>`\\"
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid "Partial Least Squares transformer and regressor."
-msgstr ""
+msgstr "Transformador y regresor de Mínimos Cuadrados Parciales."
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid ":obj:`cross_decomposition.PLSRegression <sklearn.cross_decomposition.PLSRegression>`\\"
-msgstr ""
+msgstr ":obj:`cross_decomposition.PLSRegression <sklearn.cross_decomposition.PLSRegression>`\\"
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid "PLS regression"
-msgstr ""
+msgstr "Regresión MCP"
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid ":obj:`cross_decomposition.PLSSVD <sklearn.cross_decomposition.PLSSVD>`\\"
-msgstr ""
+msgstr ":obj:`cross_decomposition.PLSSVD <sklearn.cross_decomposition.PLSSVD>`\\"
 
 #: ../modules/classes.rst:217:<autosummary>:1
 msgid "Partial Least Square SVD."
-msgstr ""
+msgstr "DVS de Mínimos Cuadrados Parciales."
 
 #: ../modules/classes.rst:221
 msgid ":mod:`sklearn.datasets`: Datasets"
-msgstr ""
+msgstr ":mod:`sklearn.datasets`: Conjuntos de datos"
 
 #: of sklearn.datasets:1
 msgid "The :mod:`sklearn.datasets` module includes utilities to load datasets, including methods to load and fetch popular reference datasets. It also features some artificial data generators."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.datasets` incluye utilidades para cargar conjuntos de datos, incluyendo métodos para cargar y obtener conjuntos de datos de referencia populares. También incluye algunos generadores de datos artificiales."
 
 #: ../modules/classes.rst:227
 msgid "**User guide:** See the :ref:`datasets` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`datasets` para más detalles."
 
 #: ../modules/classes.rst:230
 msgid "Loaders"
-msgstr ""
+msgstr "Cargadores"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.clear_data_home <sklearn.datasets.clear_data_home>`\\"
-msgstr ""
+msgstr ":obj:`datasets.clear_data_home <sklearn.datasets.clear_data_home>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Delete all the content of the data home cache."
-msgstr ""
+msgstr "Eliminar todo el contenido del caché de la carpeta del usuario."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.dump_svmlight_file <sklearn.datasets.dump_svmlight_file>`\\"
-msgstr ""
+msgstr ":obj:`datasets.dump_svmlight_file <sklearn.datasets.dump_svmlight_file>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Dump the dataset in svmlight / libsvm file format."
-msgstr ""
+msgstr "Volcar el conjunto de datos en el formato de archivos svmlight / libsvm."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_20newsgroups <sklearn.datasets.fetch_20newsgroups>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_20newsgroups <sklearn.datasets.fetch_20newsgroups>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the filenames and data from the 20 newsgroups dataset (classification)."
-msgstr ""
+msgstr "Carga los nombres de archivo y datos del conjunto de datos 20 newsgroups (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_20newsgroups_vectorized <sklearn.datasets.fetch_20newsgroups_vectorized>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_20newsgroups_vectorized <sklearn.datasets.fetch_20newsgroups_vectorized>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and vectorize the 20 newsgroups dataset (classification)."
-msgstr ""
+msgstr "Cargar y vectorizar el conjunto de datos 20 newsgroups (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_california_housing <sklearn.datasets.fetch_california_housing>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_california_housing <sklearn.datasets.fetch_california_housing>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the California housing dataset (regression)."
-msgstr ""
+msgstr "Cargar el conjunto de datos California housing (regresión)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_covtype <sklearn.datasets.fetch_covtype>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_covtype <sklearn.datasets.fetch_covtype>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the covertype dataset (classification)."
-msgstr ""
+msgstr "Cargar el conjunto de datos covertype (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_kddcup99 <sklearn.datasets.fetch_kddcup99>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_kddcup99 <sklearn.datasets.fetch_kddcup99>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the kddcup99 dataset (classification)."
-msgstr ""
+msgstr "Cargar el conjunto de datos kddcup99 (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_lfw_pairs <sklearn.datasets.fetch_lfw_pairs>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_lfw_pairs <sklearn.datasets.fetch_lfw_pairs>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the Labeled Faces in the Wild (LFW) pairs dataset (classification)."
-msgstr ""
+msgstr "Cargar el conjunto de datos de parejas Labeled Faces in the Wild (LFW) (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_lfw_people <sklearn.datasets.fetch_lfw_people>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_lfw_people <sklearn.datasets.fetch_lfw_people>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the Labeled Faces in the Wild (LFW) people dataset (classification)."
-msgstr ""
+msgstr "Cargue el conjunto de datos de personas Labeled Faces in the Wild (LFW) (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_olivetti_faces <sklearn.datasets.fetch_olivetti_faces>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_olivetti_faces <sklearn.datasets.fetch_olivetti_faces>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the Olivetti faces data-set from AT&T (classification)."
-msgstr ""
+msgstr "Cargar el conjunto de datos de caras Olivetti de AT&T (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_openml <sklearn.datasets.fetch_openml>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_openml <sklearn.datasets.fetch_openml>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Fetch dataset from openml by name or dataset id."
-msgstr ""
+msgstr "Recuperar un conjunto de datos de openml por el nombre o el id del conjunto de datos."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_rcv1 <sklearn.datasets.fetch_rcv1>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_rcv1 <sklearn.datasets.fetch_rcv1>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the RCV1 multilabel dataset (classification)."
-msgstr ""
+msgstr "Cargue el conjunto de datos multietiqueta RCV1 (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.fetch_species_distributions <sklearn.datasets.fetch_species_distributions>`\\"
-msgstr ""
+msgstr ":obj:`datasets.fetch_species_distributions <sklearn.datasets.fetch_species_distributions>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Loader for species distribution dataset from Phillips et."
-msgstr ""
+msgstr "Cargador para el conjunto de datos de distribución de especies de Phillips et."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.get_data_home <sklearn.datasets.get_data_home>`\\"
-msgstr ""
+msgstr ":obj:`datasets.get_data_home <sklearn.datasets.get_data_home>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Return the path of the scikit-learn data dir."
-msgstr ""
+msgstr "Devuelve la ruta de la carpeta de datos de scikit-learn."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_boston <sklearn.datasets.load_boston>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_boston <sklearn.datasets.load_boston>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the boston house-prices dataset (regression)."
-msgstr ""
+msgstr "Cargar y devolver el conjunto de datos del precio de la vivienda en boston (regresión)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_breast_cancer <sklearn.datasets.load_breast_cancer>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_breast_cancer <sklearn.datasets.load_breast_cancer>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the breast cancer wisconsin dataset (classification)."
-msgstr ""
+msgstr "Cargar y devolver el conjunto de datos sobre el cáncer de mama en wisconsin (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_diabetes <sklearn.datasets.load_diabetes>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_diabetes <sklearn.datasets.load_diabetes>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the diabetes dataset (regression)."
-msgstr ""
+msgstr "Carga y devolver el conjunto de datos diabetes (regresión)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_digits <sklearn.datasets.load_digits>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_digits <sklearn.datasets.load_digits>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the digits dataset (classification)."
-msgstr ""
+msgstr "Cargar y devolver el conjunto de datos digits (regresión)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_files <sklearn.datasets.load_files>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_files <sklearn.datasets.load_files>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load text files with categories as subfolder names."
-msgstr ""
+msgstr "Cargar archivos de texto con categorías como nombres de subcarpetas."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_iris <sklearn.datasets.load_iris>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_iris <sklearn.datasets.load_iris>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the iris dataset (classification)."
-msgstr ""
+msgstr "Cargar y devolver el conjunto de datos de iris (clasificación)."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_linnerud <sklearn.datasets.load_linnerud>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_linnerud <sklearn.datasets.load_linnerud>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the physical excercise linnerud dataset."
-msgstr ""
+msgstr "Carga y devuelve el conjunto de datos linnerud de ejercicio físico."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_sample_image <sklearn.datasets.load_sample_image>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_sample_image <sklearn.datasets.load_sample_image>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load the numpy array of a single sample image"
-msgstr ""
+msgstr "Carga un arreglo numpy de una imagen de muestra"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_sample_images <sklearn.datasets.load_sample_images>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_sample_images <sklearn.datasets.load_sample_images>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load sample images for image manipulation."
-msgstr ""
+msgstr "Cargar imágenes de muestra para la manipulación de imágenes."
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_svmlight_file <sklearn.datasets.load_svmlight_file>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_svmlight_file <sklearn.datasets.load_svmlight_file>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load datasets in the svmlight / libsvm format into sparse CSR matrix"
-msgstr ""
+msgstr "Cargar conjuntos de datos en el formato svmlight / libsvm en la matriz dispersa CSR"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_svmlight_files <sklearn.datasets.load_svmlight_files>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_svmlight_files <sklearn.datasets.load_svmlight_files>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load dataset from multiple files in SVMlight format"
-msgstr ""
+msgstr "Cargar un conjunto de datos a partir de varios archivos en formato SVMlight"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid ":obj:`datasets.load_wine <sklearn.datasets.load_wine>`\\"
-msgstr ""
+msgstr ":obj:`datasets.load_wine <sklearn.datasets.load_wine>`\\"
 
 #: ../modules/classes.rst:264:<autosummary>:1
 msgid "Load and return the wine dataset (classification)."
-msgstr ""
+msgstr "Cargar y devolver el conjunto de datos wine (clasificación)."
 
 #: ../modules/classes.rst:266
 msgid "Samples generator"
-msgstr ""
+msgstr "Generador de muestras"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_biclusters <sklearn.datasets.make_biclusters>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_biclusters <sklearn.datasets.make_biclusters>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate an array with constant block diagonal structure for biclustering."
-msgstr ""
+msgstr "Generar un arreglo con estructura diagonal de bloque constante para biclustering."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_blobs <sklearn.datasets.make_blobs>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_blobs <sklearn.datasets.make_blobs>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate isotropic Gaussian blobs for clustering."
-msgstr ""
+msgstr "Generar regiones gaussianas isotrópicas para agrupamiento."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_checkerboard <sklearn.datasets.make_checkerboard>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_checkerboard <sklearn.datasets.make_checkerboard>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate an array with block checkerboard structure for biclustering."
-msgstr ""
+msgstr "Generar un array con estructura de tablero de bloques para biclustering."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_circles <sklearn.datasets.make_circles>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_circles <sklearn.datasets.make_circles>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Make a large circle containing a smaller circle in 2d."
-msgstr ""
+msgstr "Hacer un círculo grande que contenga un círculo más pequeño en 2d."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_classification <sklearn.datasets.make_classification>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_classification <sklearn.datasets.make_classification>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a random n-class classification problem."
-msgstr ""
+msgstr "Generar un problema aleatorio de clasificación de n-clases."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_friedman1 <sklearn.datasets.make_friedman1>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_friedman1 <sklearn.datasets.make_friedman1>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate the \"Friedman #1\" regression problem."
-msgstr ""
+msgstr "Generar el problema de regresión \"Friedman #1\"."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_friedman2 <sklearn.datasets.make_friedman2>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_friedman2 <sklearn.datasets.make_friedman2>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate the \"Friedman #2\" regression problem."
-msgstr ""
+msgstr "Generar el problema de regresión \"Friedman #2\"."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_friedman3 <sklearn.datasets.make_friedman3>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_friedman3 <sklearn.datasets.make_friedman3>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate the \"Friedman #3\" regression problem."
-msgstr ""
+msgstr "Generar el problema de regresión \"Friedman #3\"."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_gaussian_quantiles <sklearn.datasets.make_gaussian_quantiles>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_gaussian_quantiles <sklearn.datasets.make_gaussian_quantiles>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate isotropic Gaussian and label samples by quantile."
-msgstr ""
+msgstr "Generar una gaussiana isotrópica y etiquetar las muestras por cuantiles."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_hastie_10_2 <sklearn.datasets.make_hastie_10_2>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_hastie_10_2 <sklearn.datasets.make_hastie_10_2>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generates data for binary classification used in Hastie et al. 2009, Example 10.2."
-msgstr ""
+msgstr "Genera datos para la clasificación binaria utilizada en Hastie et al. 2009, Ejemplo 10.2."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_low_rank_matrix <sklearn.datasets.make_low_rank_matrix>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_low_rank_matrix <sklearn.datasets.make_low_rank_matrix>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a mostly low rank matrix with bell-shaped singular values."
-msgstr ""
+msgstr "Generar una matriz de rango mayoritariamente bajo con valores singulares en forma de campana."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_moons <sklearn.datasets.make_moons>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_moons <sklearn.datasets.make_moons>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Make two interleaving half circles."
-msgstr ""
+msgstr "Crea dos medios círculos superpuestos."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_multilabel_classification <sklearn.datasets.make_multilabel_classification>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_multilabel_classification <sklearn.datasets.make_multilabel_classification>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a random multilabel classification problem."
-msgstr ""
+msgstr "Generar un problema de clasificación aleatoria multietiqueta."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_regression <sklearn.datasets.make_regression>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_regression <sklearn.datasets.make_regression>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a random regression problem."
-msgstr ""
+msgstr "Generar un problema aleatorio de regresión."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_s_curve <sklearn.datasets.make_s_curve>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_s_curve <sklearn.datasets.make_s_curve>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate an S curve dataset."
-msgstr ""
+msgstr "Generar un conjunto de datos de curvas S."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_sparse_coded_signal <sklearn.datasets.make_sparse_coded_signal>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_sparse_coded_signal <sklearn.datasets.make_sparse_coded_signal>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a signal as a sparse combination of dictionary elements."
-msgstr ""
+msgstr "Genera una señal como una combinación dispersa de elementos de diccionario."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_sparse_spd_matrix <sklearn.datasets.make_sparse_spd_matrix>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_sparse_spd_matrix <sklearn.datasets.make_sparse_spd_matrix>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a sparse symmetric definite positive matrix."
-msgstr ""
+msgstr "Genera una matriz dispersa simétrica definida positiva."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_sparse_uncorrelated <sklearn.datasets.make_sparse_uncorrelated>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_sparse_uncorrelated <sklearn.datasets.make_sparse_uncorrelated>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a random regression problem with sparse uncorrelated design."
-msgstr ""
+msgstr "Generar un problema aleatorio de regresión con un diseño disperso no correlacionado."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_spd_matrix <sklearn.datasets.make_spd_matrix>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_spd_matrix <sklearn.datasets.make_spd_matrix>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a random symmetric, positive-definite matrix."
-msgstr ""
+msgstr "Genera una matriz aleatoria simétrica y positiva definida."
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid ":obj:`datasets.make_swiss_roll <sklearn.datasets.make_swiss_roll>`\\"
-msgstr ""
+msgstr ":obj:`datasets.make_swiss_roll <sklearn.datasets.make_swiss_roll>`\\"
 
 #: ../modules/classes.rst:295:<autosummary>:1
 msgid "Generate a swiss roll dataset."
-msgstr ""
+msgstr "Genera un conjunto de datos swiss roll."
 
 #: ../modules/classes.rst:299
 msgid ":mod:`sklearn.decomposition`: Matrix Decomposition"
-msgstr ""
+msgstr ":mod:`sklearn.descomposición`: Descomposición matricial"
 
 #: of sklearn.decomposition:1
 msgid "The :mod:`sklearn.decomposition` module includes matrix decomposition algorithms, including among others PCA, NMF or ICA. Most of the algorithms of this module can be regarded as dimensionality reduction techniques."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.decomposition` incluye algoritmos de descomposición matricial, incluyendo entre otros PCA, NMF o ICA. La mayoría de los algoritmos de este módulo pueden considerarse técnicas de reducción de la dimensionalidad."
 
 #: ../modules/classes.rst:305
 msgid "**User guide:** See the :ref:`decompositions` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`decompositions` para más detalles."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.DictionaryLearning <sklearn.decomposition.DictionaryLearning>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.DictionaryLearning <sklearn.decomposition.DictionaryLearning>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Dictionary learning"
-msgstr ""
+msgstr "Aprendizaje de diccionario"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.FactorAnalysis <sklearn.decomposition.FactorAnalysis>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.FactorAnalysis <sklearn.decomposition.FactorAnalysis>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Factor Analysis (FA)."
-msgstr ""
+msgstr "Análisis Factorial (AF)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.FastICA <sklearn.decomposition.FastICA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.FastICA <sklearn.decomposition.FastICA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "FastICA: a fast algorithm for Independent Component Analysis."
-msgstr ""
+msgstr "FastICA: un algoritmo rápido para el Análisis de Componentes Independientes."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.IncrementalPCA <sklearn.decomposition.IncrementalPCA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.IncrementalPCA <sklearn.decomposition.IncrementalPCA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Incremental principal components analysis (IPCA)."
-msgstr ""
+msgstr "Análisis de componentes principales incremental (IPCA)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.KernelPCA <sklearn.decomposition.KernelPCA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.KernelPCA <sklearn.decomposition.KernelPCA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Kernel Principal component analysis (KPCA)."
-msgstr ""
+msgstr "Análisis de componentes principales basado en Kernel (KPCA)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.LatentDirichletAllocation <sklearn.decomposition.LatentDirichletAllocation>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.LatentDirichletAllocation <sklearn.decomposition.LatentDirichletAllocation>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Latent Dirichlet Allocation with online variational Bayes algorithm"
-msgstr ""
+msgstr "Asignación de Dirichlet latente con el algoritmo variacional de Bayes en línea"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.MiniBatchDictionaryLearning <sklearn.decomposition.MiniBatchDictionaryLearning>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.MiniBatchDictionaryLearning <sklearn.decomposition.MiniBatchDictionaryLearning>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Mini-batch dictionary learning"
-msgstr ""
+msgstr "Aprendizaje de diccionario por mini lotes"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.MiniBatchSparsePCA <sklearn.decomposition.MiniBatchSparsePCA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.MiniBatchSparsePCA <sklearn.decomposition.MiniBatchSparsePCA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Mini-batch Sparse Principal Components Analysis"
-msgstr ""
+msgstr "Análisis de Componentes Principales disperso por mini lotes"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.NMF <sklearn.decomposition.NMF>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.NMF <sklearn.decomposition.NMF>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Non-Negative Matrix Factorization (NMF)."
-msgstr ""
+msgstr "Factorización matricial no-negativa (NMF o NNMF)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.PCA <sklearn.decomposition.PCA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.PCA <sklearn.decomposition.PCA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Principal component analysis (PCA)."
-msgstr ""
+msgstr "Análisis de componentes principales (PCA)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.SparsePCA <sklearn.decomposition.SparsePCA>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.SparsePCA <sklearn.decomposition.SparsePCA>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Sparse Principal Components Analysis (SparsePCA)."
-msgstr ""
+msgstr "Análisis de componentes principales disperso (SparsePCA)."
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.SparseCoder <sklearn.decomposition.SparseCoder>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.SparseCoder <sklearn.decomposition.SparseCoder>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid "Sparse coding"
-msgstr ""
+msgstr "Codificación dispersa"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid ":obj:`decomposition.TruncatedSVD <sklearn.decomposition.TruncatedSVD>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.TruncatedSVD <sklearn.decomposition.TruncatedSVD>`\\"
 
 #: ../modules/classes.rst:326:<autosummary>:1
 msgid "Dimensionality reduction using truncated SVD (aka LSA)."
-msgstr ""
+msgstr "Reducción de dimensionalidad usando una SVD truncado (también conocido como LSA)."
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid ":obj:`decomposition.dict_learning <sklearn.decomposition.dict_learning>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.dict_learning <sklearn.decomposition.dict_learning>`\\"
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid "Solves a dictionary learning matrix factorization problem."
-msgstr ""
+msgstr "Resuelve un problema de factorización de una matriz de aprendizaje de diccionarios."
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid ":obj:`decomposition.dict_learning_online <sklearn.decomposition.dict_learning_online>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.dict_learning_online <sklearn.decomposition.dict_learning_online>`\\"
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid "Solves a dictionary learning matrix factorization problem online."
-msgstr ""
+msgstr "Resuelve un problema de factorización en línea de una matriz de aprendizaje de diccionarios."
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid ":obj:`decomposition.fastica <sklearn.decomposition.fastica>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.fastica <sklearn.decomposition.fastica>`\\"
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid "Perform Fast Independent Component Analysis."
-msgstr ""
+msgstr "Realiza un Análisis Rápido de Componentes Independientes."
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid ":obj:`decomposition.non_negative_factorization <sklearn.decomposition.non_negative_factorization>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.non_negative_factorization <sklearn.decomposition.non_negative_factorization>`\\"
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid "Compute Non-negative Matrix Factorization (NMF)."
-msgstr ""
+msgstr "Realiza la Factorización de una Matriz no-Negativa (NMF)."
 
 #: ../modules/classes.rst:336:<autosummary>:1
 msgid ":obj:`decomposition.sparse_encode <sklearn.decomposition.sparse_encode>`\\"
-msgstr ""
+msgstr ":obj:`decomposition.sparse_encode <sklearn.decomposition.sparse_encode>`\\"
 
 #: ../modules/classes.rst:340
 msgid ":mod:`sklearn.discriminant_analysis`: Discriminant Analysis"
-msgstr ""
+msgstr ":mod:`sklearn.discriminant_analysis`: Análisis Discriminante"
 
 #: of sklearn.discriminant_analysis:1
 msgid "Linear Discriminant Analysis and Quadratic Discriminant Analysis"
-msgstr ""
+msgstr "Análisis Discriminante Lineal y Análisis Discriminante Cuadrático"
 
 #: ../modules/classes.rst:346
 msgid "**User guide:** See the :ref:`lda_qda` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`lda_qda` para más detalles."
 
 #: ../modules/classes.rst:356:<autosummary>:1
 msgid ":obj:`discriminant_analysis.LinearDiscriminantAnalysis <sklearn.discriminant_analysis.LinearDiscriminantAnalysis>`\\"
-msgstr ""
+msgstr ":obj:`discriminant_analysis.LinearDiscriminantAnalysis <sklearn.discriminant_analysis.LinearDiscriminantAnalysis>`\\"
 
 #: ../modules/classes.rst:356:<autosummary>:1
 msgid "Linear Discriminant Analysis"
-msgstr ""
+msgstr "Análisis Discriminante Lineal"
 
 #: ../modules/classes.rst:356:<autosummary>:1
 msgid ":obj:`discriminant_analysis.QuadraticDiscriminantAnalysis <sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis>`\\"
-msgstr ""
+msgstr ":obj:`discriminant_analysis.QuadraticDiscriminantAnalysis <sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis>`\\"
 
 #: ../modules/classes.rst:356:<autosummary>:1
 msgid "Quadratic Discriminant Analysis"
-msgstr ""
+msgstr "Análisis Discriminante Cuadrático"
 
 #: ../modules/classes.rst:360
 msgid ":mod:`sklearn.dummy`: Dummy estimators"
-msgstr ""
+msgstr ":mod:`sklearn.dummy`: Estimadores ficticios"
 
 #: ../modules/classes.rst:366
 msgid "**User guide:** See the :ref:`model_evaluation` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`model_evaluation` para más detalles."
 
 #: ../modules/classes.rst:376:<autosummary>:1
 msgid ":obj:`dummy.DummyClassifier <sklearn.dummy.DummyClassifier>`\\"
-msgstr ""
+msgstr ":obj:`dummy.DummyClassifier <sklearn.dummy.DummyClassifier>`\\"
 
 #: ../modules/classes.rst:376:<autosummary>:1
 msgid "DummyClassifier is a classifier that makes predictions using simple rules."
-msgstr ""
+msgstr "DummyClassifier es un clasificador que hace predicciones usando reglas simples."
 
 #: ../modules/classes.rst:376:<autosummary>:1
 msgid ":obj:`dummy.DummyRegressor <sklearn.dummy.DummyRegressor>`\\"
-msgstr ""
+msgstr ":obj:`dummy.DummyRegressor <sklearn.dummy.DummyRegressor>`\\"
 
 #: ../modules/classes.rst:376:<autosummary>:1
 msgid "DummyRegressor is a regressor that makes predictions using simple rules."
-msgstr ""
+msgstr "DummyRegressor es un regresor que hace predicciones utilizando reglas simples."
 
 #: ../modules/classes.rst:384
 msgid ":mod:`sklearn.ensemble`: Ensemble Methods"
-msgstr ""
+msgstr ":mod:`sklearn.ensemble`: Métodos Ensemble"
 
 #: of sklearn.ensemble:1
 msgid "The :mod:`sklearn.ensemble` module includes ensemble-based methods for classification, regression and anomaly detection."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.ensemble` incluye métodos basados en combinaciones de métodos para la clasificación, regresión y detección de anomalías."
 
 #: ../modules/classes.rst:390
 msgid "**User guide:** See the :ref:`ensemble` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`ensemble` para más detalles."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.AdaBoostClassifier <sklearn.ensemble.AdaBoostClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.AdaBoostClassifier <sklearn.ensemble.AdaBoostClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "An AdaBoost classifier."
-msgstr ""
+msgstr "Un clasificador AdaBoost."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.AdaBoostRegressor <sklearn.ensemble.AdaBoostRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.AdaBoostRegressor <sklearn.ensemble.AdaBoostRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "An AdaBoost regressor."
-msgstr ""
+msgstr "Un regresor de AdaBoost."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.BaggingClassifier <sklearn.ensemble.BaggingClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.BaggingClassifier <sklearn.ensemble.BaggingClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "A Bagging classifier."
-msgstr ""
+msgstr "Un clasificador Bagging (Agregación bootstrap)."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.BaggingRegressor <sklearn.ensemble.BaggingRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.BaggingRegressor <sklearn.ensemble.BaggingRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "A Bagging regressor."
-msgstr ""
+msgstr "Un regresor Bagging."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.ExtraTreesClassifier <sklearn.ensemble.ExtraTreesClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.ExtraTreesClassifier <sklearn.ensemble.ExtraTreesClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "An extra-trees classifier."
-msgstr ""
+msgstr "Un clasificador extra-árboles."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.ExtraTreesRegressor <sklearn.ensemble.ExtraTreesRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.ExtraTreesRegressor <sklearn.ensemble.ExtraTreesRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "An extra-trees regressor."
-msgstr ""
+msgstr "Un regresor extra-árbol."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.GradientBoostingClassifier <sklearn.ensemble.GradientBoostingClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.GradientBoostingClassifier <sklearn.ensemble.GradientBoostingClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Gradient Boosting for classification."
-msgstr ""
+msgstr "Potenciación de gradiente para clasificación."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.GradientBoostingRegressor <sklearn.ensemble.GradientBoostingRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.GradientBoostingRegressor <sklearn.ensemble.GradientBoostingRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Gradient Boosting for regression."
-msgstr ""
+msgstr "Potenciación de Gradiente para regresión."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.IsolationForest <sklearn.ensemble.IsolationForest>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.IsolationForest <sklearn.ensemble.IsolationForest>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Isolation Forest Algorithm."
-msgstr ""
+msgstr "Algoritmo de Aislamiento de Bosques."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.RandomForestClassifier <sklearn.ensemble.RandomForestClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.RandomForestClassifier <sklearn.ensemble.RandomForestClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "A random forest classifier."
-msgstr ""
+msgstr "Un clasificador de bosque aleatorio."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.RandomForestRegressor <sklearn.ensemble.RandomForestRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.RandomForestRegressor <sklearn.ensemble.RandomForestRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "A random forest regressor."
-msgstr ""
+msgstr "Un regresor de bosque aleatorio."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.RandomTreesEmbedding <sklearn.ensemble.RandomTreesEmbedding>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.RandomTreesEmbedding <sklearn.ensemble.RandomTreesEmbedding>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "An ensemble of totally random trees."
-msgstr ""
+msgstr "Una combinación de árboles totalmente aleatorios."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.StackingClassifier <sklearn.ensemble.StackingClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.StackingClassifier <sklearn.ensemble.StackingClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Stack of estimators with a final classifier."
-msgstr ""
+msgstr "Pila de estimadores con un clasificador final."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.StackingRegressor <sklearn.ensemble.StackingRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.StackingRegressor <sklearn.ensemble.StackingRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Stack of estimators with a final regressor."
-msgstr ""
+msgstr "Pila de estimadores con un regresor final."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.VotingClassifier <sklearn.ensemble.VotingClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.VotingClassifier <sklearn.ensemble.VotingClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Soft Voting/Majority Rule classifier for unfitted estimators."
-msgstr ""
+msgstr "Clasificador de regla mayoritaria/voto suave para estimadores no ajustados."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.VotingRegressor <sklearn.ensemble.VotingRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.VotingRegressor <sklearn.ensemble.VotingRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Prediction voting regressor for unfitted estimators."
-msgstr ""
+msgstr "Regresor de predicción de voto para estimadores no ajustados."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.HistGradientBoostingRegressor <sklearn.ensemble.HistGradientBoostingRegressor>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.HistGradientBoostingRegressor <sklearn.ensemble.HistGradientBoostingRegressor>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Histogram-based Gradient Boosting Regression Tree."
-msgstr ""
+msgstr "Árbol de Regresión de Potenciación de Gradiente basado en histograma."
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid ":obj:`ensemble.HistGradientBoostingClassifier <sklearn.ensemble.HistGradientBoostingClassifier>`\\"
-msgstr ""
+msgstr ":obj:`ensemble.HistGradientBoostingClassifier <sklearn.ensemble.HistGradientBoostingClassifier>`\\"
 
 #: ../modules/classes.rst:417:<autosummary>:1
 msgid "Histogram-based Gradient Boosting Classification Tree."
-msgstr ""
+msgstr "Árbol de Clasificación de Potenciación de Gradiente basado en histograma."
 
 #: ../modules/classes.rst:426
 msgid ":mod:`sklearn.exceptions`: Exceptions and warnings"
-msgstr ""
+msgstr ":mod:`sklearn.exceptions`: Excepciones y advertencias"
 
 #: of sklearn.exceptions:1
 msgid "The :mod:`sklearn.exceptions` module includes all custom warnings and error classes used across scikit-learn."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.exceptions` incluye todas las advertencias y clases de error personalizadas utilizadas en scikit-learn."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.ConvergenceWarning <sklearn.exceptions.ConvergenceWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.ConvergenceWarning <sklearn.exceptions.ConvergenceWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Custom warning to capture convergence problems"
-msgstr ""
+msgstr "Advertencia personalizada para capturar problemas de convergencia"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.DataConversionWarning <sklearn.exceptions.DataConversionWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.DataConversionWarning <sklearn.exceptions.DataConversionWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Warning used to notify implicit data conversions happening in the code."
-msgstr ""
+msgstr "Advertencia utilizada para notificar conversiones implícitas de datos que ocurren en el código."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.DataDimensionalityWarning <sklearn.exceptions.DataDimensionalityWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.DataDimensionalityWarning <sklearn.exceptions.DataDimensionalityWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Custom warning to notify potential issues with data dimensionality."
-msgstr ""
+msgstr "Advertencia personalizada para notificar posibles problemas con la dimensionalidad de los datos."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.EfficiencyWarning <sklearn.exceptions.EfficiencyWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.EfficiencyWarning <sklearn.exceptions.EfficiencyWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Warning used to notify the user of inefficient computation."
-msgstr ""
+msgstr "Advertencia utilizada para notificar al usuario de un cálculo ineficiente."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.FitFailedWarning <sklearn.exceptions.FitFailedWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.FitFailedWarning <sklearn.exceptions.FitFailedWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Warning class used if there is an error while fitting the estimator."
-msgstr ""
+msgstr "Clase de advertencia usada si hay un error mientras se ajusta el estimador."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.NotFittedError <sklearn.exceptions.NotFittedError>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.NotFittedError <sklearn.exceptions.NotFittedError>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Exception class to raise if estimator is used before fitting."
-msgstr ""
+msgstr "Clase de excepción que se eleva si se utiliza el estimador antes del ajuste."
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid ":obj:`exceptions.UndefinedMetricWarning <sklearn.exceptions.UndefinedMetricWarning>`\\"
-msgstr ""
+msgstr ":obj:`exceptions.UndefinedMetricWarning <sklearn.exceptions.UndefinedMetricWarning>`\\"
 
 #: ../modules/classes.rst:446:<autosummary>:1
 msgid "Warning used when the metric is invalid"
-msgstr ""
+msgstr "Advertencia usada cuando la métrica no es válida"
 
 #: ../modules/classes.rst:448
 msgid ":mod:`sklearn.experimental`: Experimental"
-msgstr ""
+msgstr ":mod:`sklearn.experimental`: Experimental"
 
 #: of sklearn.experimental:1
 msgid "The :mod:`sklearn.experimental` module provides importable modules that enable the use of experimental features or estimators."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.experimental` proporciona módulos que se pueden importar para permitir el uso de características o estimadores experimentales."
 
 #: of sklearn.experimental:4
 msgid "The features and estimators that are experimental aren't subject to deprecation cycles. Use them at your own risks!"
-msgstr ""
+msgstr "Las funciones y los estimadores experimentales no están sujetos a los ciclos de caducidad. Utilícelos bajo su propia responsabilidad!"
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid ":obj:`experimental.enable_hist_gradient_boosting <sklearn.experimental.enable_hist_gradient_boosting>`\\"
-msgstr ""
+msgstr ":obj:`experimental.enable_hist_gradient_boosting <sklearn.experimental.enable_hist_gradient_boosting>`\\"
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid "Enables histogram-based gradient boosting estimators."
-msgstr ""
+msgstr "Activa los estimadores de boosting de gradiente basados en histogramas."
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid ":obj:`experimental.enable_iterative_imputer <sklearn.experimental.enable_iterative_imputer>`\\"
-msgstr ""
+msgstr ":obj:`experimental.enable_iterative_imputer <sklearn.experimental.enable_iterative_imputer>`\\"
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid "Enables IterativeImputer"
-msgstr ""
+msgstr "Activa IterativeImputer"
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid ":obj:`experimental.enable_halving_search_cv <sklearn.experimental.enable_halving_search_cv>`\\"
-msgstr ""
+msgstr ":obj:`experimental.enable_halving_search_cv <sklearn.experimental.enable_halving_search_cv>`\\"
 
 #: ../modules/classes.rst:463:<autosummary>:1
 msgid "Enables Successive Halving search-estimators"
-msgstr ""
+msgstr "Activa los estimadores de búsqueda sucesiva por mitades"
 
 #: ../modules/classes.rst:467
 msgid ":mod:`sklearn.feature_extraction`: Feature Extraction"
-msgstr ""
+msgstr ":mod:`sklearn.feature_extraction`: Extracción de Características"
 
 #: of sklearn.feature_extraction:1
 msgid "The :mod:`sklearn.feature_extraction` module deals with feature extraction from raw data. It currently includes methods to extract features from text and images."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.feature_extraction` se ocupa de la extracción de características de datos crudos. Actualmente incluye métodos para extraer características de texto e imágenes."
 
 #: ../modules/classes.rst:473
 msgid "**User guide:** See the :ref:`feature_extraction` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`feature_extraction` para más detalles."
 
 #: ../modules/classes.rst:483:<autosummary>:1
 msgid ":obj:`feature_extraction.DictVectorizer <sklearn.feature_extraction.DictVectorizer>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.DictVectorizer <sklearn.feature_extraction.DictVectorizer>`\\"
 
 #: ../modules/classes.rst:483:<autosummary>:1
 msgid "Transforms lists of feature-value mappings to vectors."
-msgstr ""
+msgstr "Transforma listas de mapeos de valores y características a vectores."
 
 #: ../modules/classes.rst:483:<autosummary>:1
 msgid ":obj:`feature_extraction.FeatureHasher <sklearn.feature_extraction.FeatureHasher>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.FeatureHasher <sklearn.feature_extraction.FeatureHasher>`\\"
 
 #: ../modules/classes.rst:483:<autosummary>:1
 msgid "Implements feature hashing, aka the hashing trick."
-msgstr ""
+msgstr "Implementa el hashing de características, también conocido como el truco del hashing."
 
 #: ../modules/classes.rst:485
 msgid "From images"
-msgstr ""
+msgstr "Desde imágenes"
 
 #: of sklearn.feature_extraction.image:1
 msgid "The :mod:`sklearn.feature_extraction.image` submodule gathers utilities to extract features from images."
-msgstr ""
+msgstr "El submódulo :mod:`sklearn.feature_extraction.image` reúne utilidades para extraer características de las imágenes."
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid ":obj:`feature_extraction.image.extract_patches_2d <sklearn.feature_extraction.image.extract_patches_2d>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.image.extract_patches_2d <sklearn.feature_extraction.image.extract_patches_2d>`\\"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid "Reshape a 2D image into a collection of patches"
-msgstr ""
+msgstr "Convierte una imagen 2D en una colección de parches"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid ":obj:`feature_extraction.image.grid_to_graph <sklearn.feature_extraction.image.grid_to_graph>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.image.grid_to_graph <sklearn.feature_extraction.image.grid_to_graph>`\\"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid "Graph of the pixel-to-pixel connections"
-msgstr ""
+msgstr "Grafo de las conexiones de píxel a píxel"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid ":obj:`feature_extraction.image.img_to_graph <sklearn.feature_extraction.image.img_to_graph>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.image.img_to_graph <sklearn.feature_extraction.image.img_to_graph>`\\"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid "Graph of the pixel-to-pixel gradient connections"
-msgstr ""
+msgstr "Grafo de las conexiones de gradiente de píxel a píxel"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid ":obj:`feature_extraction.image.reconstruct_from_patches_2d <sklearn.feature_extraction.image.reconstruct_from_patches_2d>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.image.reconstruct_from_patches_2d <sklearn.feature_extraction.image.reconstruct_from_patches_2d>`\\"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid "Reconstruct the image from all of its patches."
-msgstr ""
+msgstr "Reconstruye la imagen a partir de todos sus parches."
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid ":obj:`feature_extraction.image.PatchExtractor <sklearn.feature_extraction.image.PatchExtractor>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.image.PatchExtractor <sklearn.feature_extraction.image.PatchExtractor>`\\"
 
 #: ../modules/classes.rst:505:<autosummary>:1
 msgid "Extracts patches from a collection of images"
-msgstr ""
+msgstr "Extrae parches de una colección de imágenes"
 
 #: ../modules/classes.rst:509
 msgid "From text"
-msgstr ""
+msgstr "Desde texto"
 
 #: of sklearn.feature_extraction.text:1
 msgid "The :mod:`sklearn.feature_extraction.text` submodule gathers utilities to build feature vectors from text documents."
-msgstr ""
+msgstr "El submódulo :mod:`sklearn.feature_extraction.text` reúne utilidades para construir vectores de características de los documentos de texto."
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid ":obj:`feature_extraction.text.CountVectorizer <sklearn.feature_extraction.text.CountVectorizer>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.text.CountVectorizer <sklearn.feature_extraction.text.CountVectorizer>`\\"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid "Convert a collection of text documents to a matrix of token counts"
-msgstr ""
+msgstr "Convertir una colección de documentos de texto en una matriz de conteo de tokens"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid ":obj:`feature_extraction.text.HashingVectorizer <sklearn.feature_extraction.text.HashingVectorizer>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.text.HashingVectorizer <sklearn.feature_extraction.text.HashingVectorizer>`\\"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid "Convert a collection of text documents to a matrix of token occurrences"
-msgstr ""
+msgstr "Convertir una colección de documentos de texto en una matriz de ocurrencias de tokens"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid ":obj:`feature_extraction.text.TfidfTransformer <sklearn.feature_extraction.text.TfidfTransformer>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.text.TfidfTransformer <sklearn.feature_extraction.text.TfidfTransformer>`\\"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid "Transform a count matrix to a normalized tf or tf-idf representation"
-msgstr ""
+msgstr "Transforma una matriz de conteo a una representación de tf o tf-idf normalizada"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid ":obj:`feature_extraction.text.TfidfVectorizer <sklearn.feature_extraction.text.TfidfVectorizer>`\\"
-msgstr ""
+msgstr ":obj:`feature_extraction.text.TfidfVectorizer <sklearn.feature_extraction.text.TfidfVectorizer>`\\"
 
 #: ../modules/classes.rst:526:<autosummary>:1
 msgid "Convert a collection of raw documents to a matrix of TF-IDF features."
-msgstr ""
+msgstr "Convierte una colección de documentos crudos en una matriz de características TF-IDF."
 
 #: ../modules/classes.rst:530
 msgid ":mod:`sklearn.feature_selection`: Feature Selection"
-msgstr ""
+msgstr ":mod:`sklearn.feature_selection`: Extracción de Características"
 
 #: of sklearn.feature_selection:1
 msgid "The :mod:`sklearn.feature_selection` module implements feature selection algorithms. It currently includes univariate filter selection methods and the recursive feature elimination algorithm."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.feature_selection` implementa algoritmos de selección de características. Actualmente incluye métodos de selección de filtros univariantes y el algoritmo recursivo de eliminación de características."
 
 #: ../modules/classes.rst:536
 msgid "**User guide:** See the :ref:`feature_selection` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`feature_selection` para más detalles."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.GenericUnivariateSelect <sklearn.feature_selection.GenericUnivariateSelect>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.GenericUnivariateSelect <sklearn.feature_selection.GenericUnivariateSelect>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Univariate feature selector with configurable strategy."
-msgstr ""
+msgstr "Selector de características univariante con estrategia configurable."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectPercentile <sklearn.feature_selection.SelectPercentile>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectPercentile <sklearn.feature_selection.SelectPercentile>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Select features according to a percentile of the highest scores."
-msgstr ""
+msgstr "Selecciona características de acuerdo a un percentil de las puntuaciones más altas."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectKBest <sklearn.feature_selection.SelectKBest>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectKBest <sklearn.feature_selection.SelectKBest>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Select features according to the k highest scores."
-msgstr ""
+msgstr "Selecciona características de acuerdo a las k puntuaciones más altas."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectFpr <sklearn.feature_selection.SelectFpr>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectFpr <sklearn.feature_selection.SelectFpr>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Filter: Select the pvalues below alpha based on a FPR test."
-msgstr ""
+msgstr "Filtro: Seleccione los pvalores por debajo de alfa basados en una prueba FPR."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectFdr <sklearn.feature_selection.SelectFdr>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectFdr <sklearn.feature_selection.SelectFdr>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Filter: Select the p-values for an estimated false discovery rate"
-msgstr ""
+msgstr "Filtro: Selecciona los p-valores para una tasa estimada de falsos descubrimientos"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectFromModel <sklearn.feature_selection.SelectFromModel>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectFromModel <sklearn.feature_selection.SelectFromModel>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Meta-transformer for selecting features based on importance weights."
-msgstr ""
+msgstr "Meta-transformador para seleccionar características basadas en pesos de importancia."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SelectFwe <sklearn.feature_selection.SelectFwe>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SelectFwe <sklearn.feature_selection.SelectFwe>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Filter: Select the p-values corresponding to Family-wise error rate"
-msgstr ""
+msgstr "Filtro: Seleccione los p-valores correspondientes a la tasa de error por familia"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.SequentialFeatureSelector <sklearn.feature_selection.SequentialFeatureSelector>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.SequentialFeatureSelector <sklearn.feature_selection.SequentialFeatureSelector>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Transformer that performs Sequential Feature Selection."
-msgstr ""
+msgstr "Transformador que realiza la selección secuencial de características."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.RFE <sklearn.feature_selection.RFE>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.RFE <sklearn.feature_selection.RFE>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Feature ranking with recursive feature elimination."
-msgstr ""
+msgstr "Ordenación de características con eliminación recursiva de características."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.RFECV <sklearn.feature_selection.RFECV>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.RFECV <sklearn.feature_selection.RFECV>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Feature ranking with recursive feature elimination and cross-validated selection of the best number of features."
-msgstr ""
+msgstr "Ordenación de características con eliminación recursiva de características y selección con validación cruzada del mejor número de características."
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid ":obj:`feature_selection.VarianceThreshold <sklearn.feature_selection.VarianceThreshold>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.VarianceThreshold <sklearn.feature_selection.VarianceThreshold>`\\"
 
 #: ../modules/classes.rst:555:<autosummary>:1
 msgid "Feature selector that removes all low-variance features."
-msgstr ""
+msgstr "Selector de características que elimina todas las características de baja varianza."
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid ":obj:`feature_selection.chi2 <sklearn.feature_selection.chi2>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.chi2 <sklearn.feature_selection.chi2>`\\"
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid "Compute chi-squared stats between each non-negative feature and class."
-msgstr ""
+msgstr "Calcule las estadísticas de chi-cuadrado entre cada clase y característica no negativa."
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid ":obj:`feature_selection.f_classif <sklearn.feature_selection.f_classif>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.f_classif <sklearn.feature_selection.f_classif>`\\"
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid "Compute the ANOVA F-value for the provided sample."
-msgstr ""
+msgstr "Calcula el valor-F de ANOVA para la muestra proporcionada."
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid ":obj:`feature_selection.f_regression <sklearn.feature_selection.f_regression>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.f_regression <sklearn.feature_selection.f_regression>`\\"
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid "Univariate linear regression tests."
-msgstr ""
+msgstr "Pruebas de regresión lineal univariante."
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid ":obj:`feature_selection.mutual_info_classif <sklearn.feature_selection.mutual_info_classif>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.mutual_info_classif <sklearn.feature_selection.mutual_info_classif>`\\"
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid "Estimate mutual information for a discrete target variable."
-msgstr ""
+msgstr "Estimar la información mutua para una variable objetivo discreta."
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid ":obj:`feature_selection.mutual_info_regression <sklearn.feature_selection.mutual_info_regression>`\\"
-msgstr ""
+msgstr ":obj:`feature_selection.mutual_info_regression <sklearn.feature_selection.mutual_info_regression>`\\"
 
 #: ../modules/classes.rst:566:<autosummary>:1
 msgid "Estimate mutual information for a continuous target variable."
-msgstr ""
+msgstr "Estimar la información mutua para una variable objetivo continua."
 
 #: ../modules/classes.rst:570
 msgid ":mod:`sklearn.gaussian_process`: Gaussian Processes"
-msgstr ""
+msgstr ":mod:`sklearn.gaussian_process`: Procesos Gaussianos"
 
 #: of sklearn.gaussian_process:1
 msgid "The :mod:`sklearn.gaussian_process` module implements Gaussian Process based regression and classification."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.gaussian_process` implementa la regresión y la clasificación basadas en procesos gaussianos."
 
 #: ../modules/classes.rst:576
 msgid "**User guide:** See the :ref:`gaussian_process` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`gaussian_process` para más detalles."
 
 #: ../modules/classes.rst:586:<autosummary>:1
 msgid ":obj:`gaussian_process.GaussianProcessClassifier <sklearn.gaussian_process.GaussianProcessClassifier>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.GaussianProcessClassifier <sklearn.gaussian_process.GaussianProcessClassifier>`\\"
 
 #: ../modules/classes.rst:586:<autosummary>:1
 msgid "Gaussian process classification (GPC) based on Laplace approximation."
-msgstr ""
+msgstr "Clasificación de procesos gaussianos (Gaussian process classification, GPC) basada en la aproximación de Laplace."
 
 #: ../modules/classes.rst:586:<autosummary>:1
 msgid ":obj:`gaussian_process.GaussianProcessRegressor <sklearn.gaussian_process.GaussianProcessRegressor>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.GaussianProcessRegressor <sklearn.gaussian_process.GaussianProcessRegressor>`\\"
 
 #: ../modules/classes.rst:586:<autosummary>:1
 msgid "Gaussian process regression (GPR)."
-msgstr ""
+msgstr "Regresión de procesos gaussianos (Gaussian process regression, GPR)."
 
 #: ../modules/classes.rst:587
 msgid "Kernels:"
@@ -1724,7 +1724,7 @@ msgstr ""
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.CompoundKernel <sklearn.gaussian_process.kernels.CompoundKernel>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.CompoundKernel <sklearn.gaussian_process.kernels.CompoundKernel>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Kernel which is composed of a set of other kernels."
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.ConstantKernel <sklearn.gaussian_process.kernels.ConstantKernel>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.ConstantKernel <sklearn.gaussian_process.kernels.ConstantKernel>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Constant kernel."
@@ -1740,7 +1740,7 @@ msgstr ""
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.DotProduct <sklearn.gaussian_process.kernels.DotProduct>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.DotProduct <sklearn.gaussian_process.kernels.DotProduct>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Dot-Product kernel."
@@ -1748,7 +1748,7 @@ msgstr ""
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.ExpSineSquared <sklearn.gaussian_process.kernels.ExpSineSquared>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.ExpSineSquared <sklearn.gaussian_process.kernels.ExpSineSquared>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Exp-Sine-Squared kernel (aka periodic kernel)."
@@ -1756,208 +1756,208 @@ msgstr ""
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Exponentiation <sklearn.gaussian_process.kernels.Exponentiation>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Exponentiation <sklearn.gaussian_process.kernels.Exponentiation>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "The Exponentiation kernel takes one base kernel and a scalar parameter :math:`p` and combines them via"
-msgstr ""
+msgstr "Calcula un kernel de exponenciación combinando un kernel base y un parámetro escalar :math:`p`."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Hyperparameter <sklearn.gaussian_process.kernels.Hyperparameter>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Hyperparameter <sklearn.gaussian_process.kernels.Hyperparameter>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "A kernel hyperparameter's specification in form of a namedtuple."
-msgstr ""
+msgstr "La especificación de un hiperparámetro del kernel en forma de una namedtuple."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Kernel <sklearn.gaussian_process.kernels.Kernel>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Kernel <sklearn.gaussian_process.kernels.Kernel>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Base class for all kernels."
-msgstr ""
+msgstr "Clase base para todos los kernels."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Matern <sklearn.gaussian_process.kernels.Matern>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Matern <sklearn.gaussian_process.kernels.Matern>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Matern kernel."
-msgstr ""
+msgstr "Kernel Matérn."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.PairwiseKernel <sklearn.gaussian_process.kernels.PairwiseKernel>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.PairwiseKernel <sklearn.gaussian_process.kernels.PairwiseKernel>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Wrapper for kernels in sklearn.metrics.pairwise."
-msgstr ""
+msgstr "Envoltorio para los kernels en sklearn.metrics.pairwise."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Product <sklearn.gaussian_process.kernels.Product>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Product <sklearn.gaussian_process.kernels.Product>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "The `Product` kernel takes two kernels :math:`k_1` and :math:`k_2` and combines them via"
-msgstr ""
+msgstr "Calcula el kernel `Product` combinando dos kernels :math:`k_1` y :math:`k_2`"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.RBF <sklearn.gaussian_process.kernels.RBF>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.RBF <sklearn.gaussian_process.kernels.RBF>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Radial-basis function kernel (aka squared-exponential kernel)."
-msgstr ""
+msgstr "Kernel de la función base Radial (también conocido como kernel cuadrado-exponencial)."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.RationalQuadratic <sklearn.gaussian_process.kernels.RationalQuadratic>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.RationalQuadratic <sklearn.gaussian_process.kernels.RationalQuadratic>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "Rational Quadratic kernel."
-msgstr ""
+msgstr "Kernel Cuadrático Racional."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.Sum <sklearn.gaussian_process.kernels.Sum>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.Sum <sklearn.gaussian_process.kernels.Sum>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "The `Sum` kernel takes two kernels :math:`k_1` and :math:`k_2` and combines them via"
-msgstr ""
+msgstr "Calcula el kernel `Sum` combinando dos kernels :math:`k_1` y :math:`k_2`."
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid ":obj:`gaussian_process.kernels.WhiteKernel <sklearn.gaussian_process.kernels.WhiteKernel>`\\"
-msgstr ""
+msgstr ":obj:`gaussian_process.kernels.WhiteKernel <sklearn.gaussian_process.kernels.WhiteKernel>`\\"
 
 #: ../modules/classes.rst:608:<autosummary>:1
 msgid "White kernel."
-msgstr ""
+msgstr "Kernel blanco."
 
 #: ../modules/classes.rst:612
 msgid ":mod:`sklearn.impute`: Impute"
-msgstr ""
+msgstr ":mod:`sklearn.impute`: Imputar"
 
 #: of sklearn.impute:1
 msgid "Transformers for missing value imputation"
-msgstr ""
+msgstr "Transformadores para la imputación de valores faltantes"
 
 #: ../modules/classes.rst:618
 msgid "**User guide:** See the :ref:`Impute` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`Impute` para más detalles."
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid ":obj:`impute.SimpleImputer <sklearn.impute.SimpleImputer>`\\"
-msgstr ""
+msgstr ":obj:`impute.SimpleImputer <sklearn.impute.SimpleImputer>`\\"
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid "Imputation transformer for completing missing values."
-msgstr ""
+msgstr "Transformador de imputación para completar valores faltantes."
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid ":obj:`impute.IterativeImputer <sklearn.impute.IterativeImputer>`\\"
-msgstr ""
+msgstr ":obj:`impute.IterativeImputer <sklearn.impute.IterativeImputer>`\\"
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid "Multivariate imputer that estimates each feature from all the others."
-msgstr ""
+msgstr "Imputador multivariante que estima cada característica a partir de todas las restantes."
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid ":obj:`impute.MissingIndicator <sklearn.impute.MissingIndicator>`\\"
-msgstr ""
+msgstr ":obj:`impute.MissingIndicator <sklearn.impute.MissingIndicator>`\\"
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid "Binary indicators for missing values."
-msgstr ""
+msgstr "Indicadores binarios para valores faltantes."
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid ":obj:`impute.KNNImputer <sklearn.impute.KNNImputer>`\\"
-msgstr ""
+msgstr ":obj:`impute.KNNImputer <sklearn.impute.KNNImputer>`\\"
 
 #: ../modules/classes.rst:631:<autosummary>:1
 msgid "Imputation for completing missing values using k-Nearest Neighbors."
-msgstr ""
+msgstr "Imputación para completar los valores faltantes mediante vecinos más cercanos (k-Nearest Neighbors)."
 
 #: ../modules/classes.rst:635
 msgid ":mod:`sklearn.inspection`: Inspection"
-msgstr ""
+msgstr ":mod:`sklearn.inspection`: Inspección"
 
 #: of sklearn.inspection:1
 msgid "The :mod:`sklearn.inspection` module includes tools for model inspection."
-msgstr ""
+msgstr "El módulo :mod:`sklearn.inspection` incluye herramientas para la inspección de modelos."
 
 #: ../modules/classes.rst:649:<autosummary>:1
 msgid ":obj:`inspection.partial_dependence <sklearn.inspection.partial_dependence>`\\"
-msgstr ""
+msgstr ":obj:`inspection.partial_dependence <sklearn.inspection.partial_dependence>`\\"
 
 #: ../modules/classes.rst:649:<autosummary>:1
 msgid "Partial dependence of ``features``."
-msgstr ""
+msgstr "Dependencia parcial de ``características``."
 
 #: ../modules/classes.rst:649:<autosummary>:1
 msgid ":obj:`inspection.permutation_importance <sklearn.inspection.permutation_importance>`\\"
-msgstr ""
+msgstr ":obj:`inspection.permutation_importance <sklearn.inspection.permutation_importance>`\\"
 
 #: ../modules/classes.rst:649:<autosummary>:1
 msgid "Permutation importance for feature evaluation [Rd9e56ef97513-BRE]_."
-msgstr ""
+msgstr "Importancia de la permutación para la evaluación de la característica [Rd9e56ef97513-BRE]_."
 
 #: ../modules/classes.rst:651 ../modules/classes.rst:1099
 #: ../modules/classes.rst:1548
 msgid "Plotting"
-msgstr ""
+msgstr "Graficos"
 
 #: ../modules/classes.rst:660:<autosummary>:1
 msgid ":obj:`inspection.PartialDependenceDisplay <sklearn.inspection.PartialDependenceDisplay>`\\"
-msgstr ""
+msgstr ":obj:`inspection.PartialDependenceDisplay <sklearn.inspection.PartialDependenceDisplay>`\\"
 
 #: ../modules/classes.rst:660:<autosummary>:1
 msgid "Partial Dependence Plot (PDP)."
-msgstr ""
+msgstr "Gráfico de dependencia parcial (PDP)."
 
 #: ../modules/classes.rst:666:<autosummary>:1
 msgid ":obj:`inspection.plot_partial_dependence <sklearn.inspection.plot_partial_dependence>`\\"
-msgstr ""
+msgstr ":obj:`inspection.plot_partial_dependence <sklearn.inspection.plot_partial_dependence>`\\"
 
 #: ../modules/classes.rst:666:<autosummary>:1
 msgid "Partial dependence (PD) and individual conditional expectation (ICE) plots."
-msgstr ""
+msgstr "Gráficos de dependencia parcial (DP) y de expectativa condicional individual (ECI)."
 
 #: ../modules/classes.rst:670
 msgid ":mod:`sklearn.isotonic`: Isotonic regression"
-msgstr ""
+msgstr ":mod:`sklearn.isotonic`: Regresión isotónica"
 
 #: ../modules/classes.rst:676
 msgid "**User guide:** See the :ref:`isotonic` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`isotonic` para más detalles."
 
 #: ../modules/classes.rst:685:<autosummary>:1
 msgid ":obj:`isotonic.IsotonicRegression <sklearn.isotonic.IsotonicRegression>`\\"
-msgstr ""
+msgstr ":obj:`isotonic.IsotonicRegression <sklearn.isotonic.IsotonicRegression>`\\"
 
 #: ../modules/classes.rst:685:<autosummary>:1
 msgid "Isotonic regression model."
-msgstr ""
+msgstr "Modelo de regresión isotónica."
 
 #: ../modules/classes.rst:693:<autosummary>:1
 msgid ":obj:`isotonic.check_increasing <sklearn.isotonic.check_increasing>`\\"
-msgstr ""
+msgstr ":obj:`isotonic.check_increasing <sklearn.isotonic.check_increasing>`\\"
 
 #: ../modules/classes.rst:693:<autosummary>:1
 msgid "Determine whether y is monotonically correlated with x."
-msgstr ""
+msgstr "Determina si y está monotónicamente correlacionada con x."
 
 #: ../modules/classes.rst:693:<autosummary>:1
 msgid ":obj:`isotonic.isotonic_regression <sklearn.isotonic.isotonic_regression>`\\"
-msgstr ""
+msgstr ":obj:`isotonic.isotonic_regression <sklearn.isotonic.isotonic_regression>`\\"
 
 #: ../modules/classes.rst:693:<autosummary>:1
 msgid "Solve the isotonic regression model."
-msgstr ""
+msgstr "Resuelve el modelo de regresión isotónica."
 
 #: ../modules/classes.rst:697
 msgid ":mod:`sklearn.kernel_approximation`: Kernel Approximation"
-msgstr ""
+msgstr ":mod:`sklearn.kernel_aproximation`: Aproximación de Kernel"
 
 #: of sklearn.kernel_approximation:1
 msgid "The :mod:`sklearn.kernel_approximation` module implements several approximate kernel feature maps based on Fourier transforms and Count Sketches."
@@ -1965,11 +1965,11 @@ msgstr ""
 
 #: ../modules/classes.rst:703
 msgid "**User guide:** See the :ref:`kernel_approximation` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`kernel_approximation` para más detalles."
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid ":obj:`kernel_approximation.AdditiveChi2Sampler <sklearn.kernel_approximation.AdditiveChi2Sampler>`\\"
-msgstr ""
+msgstr ":obj:`kernel_approximation.AdditiveChi2Sampler <sklearn.kernel_approximation.AdditiveChi2Sampler>`\\"
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid "Approximate feature map for additive chi2 kernel."
@@ -1977,7 +1977,7 @@ msgstr ""
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid ":obj:`kernel_approximation.Nystroem <sklearn.kernel_approximation.Nystroem>`\\"
-msgstr ""
+msgstr ":obj:`kernel_approximation.Nystroem <sklearn.kernel_approximation.Nystroem>`\\"
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid "Approximate a kernel map using a subset of the training data."
@@ -1985,7 +1985,7 @@ msgstr ""
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid ":obj:`kernel_approximation.PolynomialCountSketch <sklearn.kernel_approximation.PolynomialCountSketch>`\\"
-msgstr ""
+msgstr ":obj:`kernel_approximation.PolynomialCountSketch <sklearn.kernel_approximation.PolynomialCountSketch>`\\"
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid "Polynomial kernel approximation via Tensor Sketch."
@@ -1993,7 +1993,7 @@ msgstr ""
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid ":obj:`kernel_approximation.RBFSampler <sklearn.kernel_approximation.RBFSampler>`\\"
-msgstr ""
+msgstr ":obj:`kernel_approximation.RBFSampler <sklearn.kernel_approximation.RBFSampler>`\\"
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid "Approximates feature map of an RBF kernel by Monte Carlo approximation of its Fourier transform."
@@ -2001,7 +2001,7 @@ msgstr ""
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid ":obj:`kernel_approximation.SkewedChi2Sampler <sklearn.kernel_approximation.SkewedChi2Sampler>`\\"
-msgstr ""
+msgstr ":obj:`kernel_approximation.SkewedChi2Sampler <sklearn.kernel_approximation.SkewedChi2Sampler>`\\"
 
 #: ../modules/classes.rst:716:<autosummary>:1
 msgid "Approximates feature map of the \"skewed chi-squared\" kernel by Monte Carlo approximation of its Fourier transform."
@@ -2017,11 +2017,11 @@ msgstr ""
 
 #: ../modules/classes.rst:726
 msgid "**User guide:** See the :ref:`kernel_ridge` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`kernel_ridge` para más detalles."
 
 #: ../modules/classes.rst:735:<autosummary>:1
 msgid ":obj:`kernel_ridge.KernelRidge <sklearn.kernel_ridge.KernelRidge>`\\"
-msgstr ""
+msgstr ":obj:`kernel_ridge.KernelRidge <sklearn.kernel_ridge.KernelRidge>`\\"
 
 #: ../modules/classes.rst:735:<autosummary>:1
 msgid "Kernel ridge regression."
@@ -2037,7 +2037,7 @@ msgstr ""
 
 #: ../modules/classes.rst:745
 msgid "**User guide:** See the :ref:`linear_model` section for further details."
-msgstr ""
+msgstr "**Manual de usuario:** Consulte la sección :ref:`linear_model` para más detalles."
 
 #: ../modules/classes.rst:747
 msgid "The following subsections are only rough guidelines: the same estimator can fall into multiple categories, depending on its parameters."
@@ -2049,7 +2049,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.LogisticRegression <sklearn.linear_model.LogisticRegression>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LogisticRegression <sklearn.linear_model.LogisticRegression>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Logistic Regression (aka logit, MaxEnt) classifier."
@@ -2057,7 +2057,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.LogisticRegressionCV <sklearn.linear_model.LogisticRegressionCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LogisticRegressionCV <sklearn.linear_model.LogisticRegressionCV>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Logistic Regression CV (aka logit, MaxEnt) classifier."
@@ -2065,7 +2065,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.PassiveAggressiveClassifier <sklearn.linear_model.PassiveAggressiveClassifier>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.PassiveAggressiveClassifier <sklearn.linear_model.PassiveAggressiveClassifier>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Passive Aggressive Classifier"
@@ -2073,7 +2073,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.Perceptron <sklearn.linear_model.Perceptron>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.Perceptron <sklearn.linear_model.Perceptron>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Read more in the :ref:`User Guide <perceptron>`."
@@ -2081,7 +2081,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.RidgeClassifier <sklearn.linear_model.RidgeClassifier>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.RidgeClassifier <sklearn.linear_model.RidgeClassifier>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Classifier using Ridge regression."
@@ -2089,7 +2089,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.RidgeClassifierCV <sklearn.linear_model.RidgeClassifierCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.RidgeClassifierCV <sklearn.linear_model.RidgeClassifierCV>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Ridge classifier with built-in cross-validation."
@@ -2097,7 +2097,7 @@ msgstr ""
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid ":obj:`linear_model.SGDClassifier <sklearn.linear_model.SGDClassifier>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.SGDClassifier <sklearn.linear_model.SGDClassifier>`\\"
 
 #: ../modules/classes.rst:765:<autosummary>:1
 msgid "Linear classifiers (SVM, logistic regression, etc.) with SGD training."
@@ -2109,7 +2109,7 @@ msgstr ""
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid ":obj:`linear_model.LinearRegression <sklearn.linear_model.LinearRegression>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LinearRegression <sklearn.linear_model.LinearRegression>`\\"
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid "Ordinary least squares Linear Regression."
@@ -2117,7 +2117,7 @@ msgstr ""
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid ":obj:`linear_model.Ridge <sklearn.linear_model.Ridge>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.Ridge <sklearn.linear_model.Ridge>`\\"
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid "Linear least squares with l2 regularization."
@@ -2125,7 +2125,7 @@ msgstr ""
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid ":obj:`linear_model.RidgeCV <sklearn.linear_model.RidgeCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.RidgeCV <sklearn.linear_model.RidgeCV>`\\"
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid "Ridge regression with built-in cross-validation."
@@ -2133,7 +2133,7 @@ msgstr ""
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid ":obj:`linear_model.SGDRegressor <sklearn.linear_model.SGDRegressor>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.SGDRegressor <sklearn.linear_model.SGDRegressor>`\\"
 
 #: ../modules/classes.rst:777:<autosummary>:1
 msgid "Linear model fitted by minimizing a regularized empirical loss with SGD"
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.ElasticNet <sklearn.linear_model.ElasticNet>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.ElasticNet <sklearn.linear_model.ElasticNet>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Linear regression with combined L1 and L2 priors as regularizer."
@@ -2157,23 +2157,23 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.ElasticNetCV <sklearn.linear_model.ElasticNetCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.ElasticNetCV <sklearn.linear_model.ElasticNetCV>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Elastic Net model with iterative fitting along a regularization path."
-msgstr ""
+msgstr "Modelo de Red Elástica con ajuste iterativo a lo largo de una trayectoria de regularización."
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.Lars <sklearn.linear_model.Lars>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.Lars <sklearn.linear_model.Lars>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Least Angle Regression model a.k.a."
-msgstr ""
+msgstr "Modelo de regresión de mínimo ángulo, también conocido como"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.LarsCV <sklearn.linear_model.LarsCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LarsCV <sklearn.linear_model.LarsCV>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Cross-validated Least Angle Regression model."
@@ -2181,7 +2181,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.Lasso <sklearn.linear_model.Lasso>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.Lasso <sklearn.linear_model.Lasso>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Linear Model trained with L1 prior as regularizer (aka the Lasso)"
@@ -2189,7 +2189,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.LassoCV <sklearn.linear_model.LassoCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LassoCV <sklearn.linear_model.LassoCV>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Lasso linear model with iterative fitting along a regularization path."
@@ -2197,7 +2197,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.LassoLars <sklearn.linear_model.LassoLars>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LassoLars <sklearn.linear_model.LassoLars>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Lasso model fit with Least Angle Regression a.k.a."
@@ -2205,7 +2205,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.LassoLarsCV <sklearn.linear_model.LassoLarsCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LassoLarsCV <sklearn.linear_model.LassoLarsCV>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Cross-validated Lasso, using the LARS algorithm."
@@ -2213,7 +2213,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.LassoLarsIC <sklearn.linear_model.LassoLarsIC>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.LassoLarsIC <sklearn.linear_model.LassoLarsIC>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Lasso model fit with Lars using BIC or AIC for model selection"
@@ -2221,7 +2221,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.OrthogonalMatchingPursuit <sklearn.linear_model.OrthogonalMatchingPursuit>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.OrthogonalMatchingPursuit <sklearn.linear_model.OrthogonalMatchingPursuit>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Orthogonal Matching Pursuit model (OMP)."
@@ -2229,7 +2229,7 @@ msgstr ""
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid ":obj:`linear_model.OrthogonalMatchingPursuitCV <sklearn.linear_model.OrthogonalMatchingPursuitCV>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.OrthogonalMatchingPursuitCV <sklearn.linear_model.OrthogonalMatchingPursuitCV>`\\"
 
 #: ../modules/classes.rst:801:<autosummary>:1
 msgid "Cross-validated Orthogonal Matching Pursuit model (OMP)."
@@ -2241,7 +2241,7 @@ msgstr ""
 
 #: ../modules/classes.rst:811:<autosummary>:1
 msgid ":obj:`linear_model.ARDRegression <sklearn.linear_model.ARDRegression>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.ARDRegression <sklearn.linear_model.ARDRegression>`\\"
 
 #: ../modules/classes.rst:811:<autosummary>:1
 msgid "Bayesian ARD regression."
@@ -2249,7 +2249,7 @@ msgstr ""
 
 #: ../modules/classes.rst:811:<autosummary>:1
 msgid ":obj:`linear_model.BayesianRidge <sklearn.linear_model.BayesianRidge>`\\"
-msgstr ""
+msgstr ":obj:`linear_model.BayesianRidge <sklearn.linear_model.BayesianRidge>`\\"
 
 #: ../modules/classes.rst:811:<autosummary>:1
 msgid "Bayesian ridge regression."

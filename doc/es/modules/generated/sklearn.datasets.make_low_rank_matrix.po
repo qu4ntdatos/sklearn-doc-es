@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-15 06:07\n"
+"PO-Revision-Date: 2021-06-01 15:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../modules/generated/sklearn.datasets.make_low_rank_matrix.rst:2
 msgid ":mod:`sklearn.datasets`.make_low_rank_matrix"
-msgstr ""
+msgstr ":mod:`sklearn.datasets`.make_low_rank_matrix"
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix:2
 msgid "Generate a mostly low rank matrix with bell-shaped singular values."
@@ -52,11 +52,11 @@ msgstr ""
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix:22
 msgid "Read more in the :ref:`User Guide <sample_generators>`."
-msgstr ""
+msgstr "Leer más en el :ref:`Manual de Usuario <sample_generators>`."
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix:27
 msgid "**n_samples**"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix
 msgid "Returns"
-msgstr ""
+msgstr "Devuelve"
 
 #: of sklearn.datasets._samples_generator.make_low_rank_matrix:59
 msgid "**X**"

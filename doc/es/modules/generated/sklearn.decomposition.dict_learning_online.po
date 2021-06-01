@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-15 06:06\n"
+"PO-Revision-Date: 2021-06-01 15:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../modules/generated/sklearn.decomposition.dict_learning_online.rst:2
 msgid ":mod:`sklearn.decomposition`.dict_learning_online"
-msgstr ""
+msgstr ":mod:`sklearn.decomposition`.dict_learning_online"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:2
 msgid "Solves a dictionary learning matrix factorization problem online."
@@ -36,11 +36,11 @@ msgstr ""
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:15
 msgid "Read more in the :ref:`User Guide <DictionaryLearning>`."
-msgstr ""
+msgstr "Leer más en el :ref:`Manual de Usuario <DictionaryLearning>`."
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:20
 msgid "**X**"
@@ -269,7 +269,7 @@ msgstr ""
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online
 msgid "Returns"
-msgstr ""
+msgstr "Devuelve"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:107
 msgid "**code**"
@@ -305,21 +305,21 @@ msgstr ""
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:125
 msgid ":obj:`dict_learning`"
-msgstr ""
+msgstr ":obj:`dict_learning`"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:127
 msgid ":obj:`DictionaryLearning`"
-msgstr ""
+msgstr ":obj:`DictionaryLearning`"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:129
 msgid ":obj:`MiniBatchDictionaryLearning`"
-msgstr ""
+msgstr ":obj:`MiniBatchDictionaryLearning`"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:131
 msgid ":obj:`SparsePCA`"
-msgstr ""
+msgstr ":obj:`SparsePCA`"
 
 #: of sklearn.decomposition._dict_learning.dict_learning_online:133
 msgid ":obj:`MiniBatchSparsePCA`"
-msgstr ""
+msgstr ":obj:`MiniBatchSparsePCA`"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-15 06:11\n"
+"PO-Revision-Date: 2021-06-01 03:57\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../modules/generated/sklearn.datasets.load_svmlight_files.rst:2
 msgid ":mod:`sklearn.datasets`.load_svmlight_files"
-msgstr ""
+msgstr ":mod:`sklearn.datasets`.load_svmlight_files"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:2
 msgid "Load dataset from multiple files in SVMlight format"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:24
 msgid "**files**"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: of
 msgid "int, default=None"
-msgstr ""
+msgstr "int, default=None"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:27
 msgid "The number of features to use. If None, it will be inferred from the maximum column index occurring in any of the files."
@@ -84,7 +84,7 @@ msgstr ""
 
 #: of
 msgid "bool, default=False"
-msgstr ""
+msgstr "bool, default=False"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:39
 msgid "Samples may have several labels each (see https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multilabel.html)"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: of
 msgid "bool or \"auto\", default=\"auto\""
-msgstr ""
+msgstr "bool o \"auto\", default=\"auto\""
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:43
 msgid "Whether column indices in f are zero-based (True) or one-based (False). If column indices are one-based, they are transformed to zero-based to match Python/NumPy conventions. If set to \"auto\", a heuristic check is applied to determine this from the file contents. Both kinds of files occur \"in the wild\", but they are unfortunately not self-identifying. Using \"auto\" or True should always be safe when no offset or length is passed. If offset or length are passed, the \"auto\" mode falls back to zero_based=True to avoid having the heuristic check yield inconsistent results on different segments of the file."
@@ -136,7 +136,7 @@ msgstr ""
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files
 msgid "Returns"
-msgstr ""
+msgstr "Devuelve"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:69
 msgid "[X1, y1, ..., Xn, yn]"
@@ -160,11 +160,11 @@ msgstr ""
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:92
 msgid ":obj:`load_svmlight_file`"
-msgstr ""
+msgstr ":obj:`load_svmlight_file`"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:96
 msgid "Notes"
-msgstr ""
+msgstr "Notas"
 
 #: of sklearn.datasets._svmlight_format_io.load_svmlight_files:97
 msgid "When fitting a model to a matrix X_train and evaluating it against a matrix X_test, it is essential that X_train and X_test have the same number of features (X_train.shape[1] == X_test.shape[1]). This may not be the case if you load the files individually with load_svmlight_file."

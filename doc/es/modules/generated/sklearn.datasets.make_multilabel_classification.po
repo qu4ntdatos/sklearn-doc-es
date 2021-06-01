@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: scikit-learn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 11:24-0400\n"
-"PO-Revision-Date: 2021-04-15 06:12\n"
+"PO-Revision-Date: 2021-06-01 15:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../modules/generated/sklearn.datasets.make_multilabel_classification.rst:2
 msgid ":mod:`sklearn.datasets`.make_multilabel_classification"
-msgstr ""
+msgstr ":mod:`sklearn.datasets`.make_multilabel_classification"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:2
 msgid "Generate a random multilabel classification problem."
@@ -52,11 +52,11 @@ msgstr ""
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:14
 msgid "Read more in the :ref:`User Guide <sample_generators>`."
-msgstr ""
+msgstr "Leer más en el :ref:`Manual de Usuario <sample_generators>`."
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:19
 msgid "**n_samples**"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification
 msgid "Returns"
-msgstr ""
+msgstr "Devuelve"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:65
 msgid "**X**"
@@ -188,11 +188,11 @@ msgstr ""
 
 #: of
 msgid "ndarray of shape (n_samples, n_features)"
-msgstr ""
+msgstr "ndarray de forma (n_samples, n_features)"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:65
 msgid "The generated samples."
-msgstr ""
+msgstr "Las muestras generadas."
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:68
 msgid "**Y**"
@@ -212,7 +212,7 @@ msgstr ""
 
 #: of
 msgid "ndarray of shape (n_classes,)"
-msgstr ""
+msgstr "ndarray de forma (n_classes,)"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:71
 msgid "The probability of each class being drawn. Only returned if ``return_distributions=True``."
@@ -224,7 +224,7 @@ msgstr ""
 
 #: of
 msgid "ndarray of shape (n_features, n_classes)"
-msgstr ""
+msgstr "ndarray de forma (n_features, n_classes)"
 
 #: of sklearn.datasets._samples_generator.make_multilabel_classification:75
 msgid "The probability of each feature being drawn given each class. Only returned if ``return_distributions=True``."
